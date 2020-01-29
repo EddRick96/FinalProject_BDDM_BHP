@@ -7,7 +7,7 @@
 Integrantes:
 
   - Bolaños Erick
-  - Barrera Alfonso
+  - Heredia Alfonso
   - Pizarra Jhonathan
 
 Descripción:
