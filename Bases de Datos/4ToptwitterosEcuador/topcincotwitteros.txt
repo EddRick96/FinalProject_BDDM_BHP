@@ -1,0 +1,2571 @@
+﻿{ - 
+  "took": 6,
+  "timed_out": false,
+  "_shards": { - 
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": { - 
+    "total": { - 
+      "value": 10000,
+      "relation": "gte"
+    },
+    "max_score": 1,
+    "hits": [ - 
+      { - 
+        "_index": "topcincotwitteros",
+        "_type": "_doc",
+        "_id": "WnegOXABny8mSGyfUj55",
+        "_score": 1,
+        "_source": { - 
+          "doc_as_upsert": true,
+          "@timestamp": "2020-02-12T13:39:33.010Z",
+          "@version": "1",
+          "doc": { - 
+            "id": 1226328048657715200,
+            "retweeted": false,
+            "timestamp_ms": "1581214365530",
+            "in_reply_to_user_id_str": null,
+            "coordinates": null,
+            "contributors": null,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "filter_level": "low",
+            "geo": null,
+            "place": null,
+            "truncated": false,
+            "in_reply_to_screen_name": null,
+            "retweeted_status": { - 
+              "id": 1225821973583888400,
+              "retweeted": false,
+              "in_reply_to_user_id_str": null,
+              "coordinates": null,
+              "contributors": null,
+              "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+              "in_reply_to_status_id": null,
+              "filter_level": "low",
+              "geo": null,
+              "place": null,
+              "truncated": true,
+              "in_reply_to_screen_name": null,
+              "quote_count": 2,
+              "user": { - 
+                "id": 38936142,
+                "translator_type": "none",
+                "profile_background_color": "C0DEED",
+                "protected": false,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "url": null,
+                "default_profile": true,
+                "description": "Washington Post White House Reporter. CNN analyst. Proud Carolinian & New Yorker. Loud phone talker. Hot sauce enthusiast. Josh.Dawsey@WashPost.com",
+                "statuses_count": 35256,
+                "follow_request_sent": null,
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "contributors_enabled": false,
+                "default_profile_image": false,
+                "profile_sidebar_fill_color": "DDEEF6",
+                "time_zone": null,
+                "name": "Josh Dawsey",
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 3678,
+                "screen_name": "jdawsey1",
+                "followers_count": 251004,
+                "favourites_count": 34150,
+                "id_str": "38936142",
+                "friends_count": 2932,
+                "geo_enabled": true,
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "following": null,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "location": "DC",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1206994277580099585/UIVSY2Yc_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/38936142/1576188660",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1206994277580099585/UIVSY2Yc_normal.jpg",
+                "notifications": null,
+                "verified": true,
+                "created_at": "Sat May 09 21:54:29 +0000 2009",
+                "utc_offset": null
+              },
+              "text": "Trump people, including some top White House aides, have been chattering for months that Mulvaney is about to leave… https://t.co/eDkG21ADtO",
+              "favorite_count": 213,
+              "lang": "en",
+              "id_str": "1225821973583888386",
+              "reply_count": 25,
+              "in_reply_to_status_id_str": null,
+              "retweet_count": 53,
+              "extended_tweet": { - 
+                "full_text": "Trump people, including some top White House aides, have been chattering for months that Mulvaney is about to leave or may be leaving or is leaving or will have left. 400 days later, he’s still acting chief of staff with a diminished portfolio. And he will be until he isn’t.",
+                "display_text_range": [ - 
+                  0,
+                  275
+                ],
+                "entities": { - 
+                  "symbols": [ - 
+
+                  ],
+                  "hashtags": [ - 
+
+                  ],
+                  "urls": [ - 
+
+                  ],
+                  "user_mentions": [ - 
+
+                  ]
+                }
+              },
+              "is_quote_status": false,
+              "favorited": false,
+              "created_at": "Fri Feb 07 16:41:47 +0000 2020",
+              "in_reply_to_user_id": null,
+              "entities": { - 
+                "symbols": [ - 
+
+                ],
+                "hashtags": [ - 
+
+                ],
+                "urls": [ - 
+                  { - 
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "url": "https://t.co/eDkG21ADtO",
+                    "expanded_url": "https://twitter.com/i/web/status/1225821973583888386",
+                    "indices": [ - 
+                      117,
+                      140
+                    ]
+                  }
+                ],
+                "user_mentions": [ - 
+
+                ]
+              }
+            },
+            "user": { - 
+              "id": 330282925,
+              "translator_type": "none",
+              "profile_background_color": "C0DEED",
+              "protected": false,
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "url": null,
+              "default_profile": true,
+              "description": "Retired. Volunteer now",
+              "statuses_count": 38145,
+              "follow_request_sent": null,
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "contributors_enabled": false,
+              "default_profile_image": false,
+              "profile_sidebar_fill_color": "DDEEF6",
+              "time_zone": null,
+              "name": "Doodle Eubanks",
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 3,
+              "screen_name": "alvinebks",
+              "followers_count": 448,
+              "favourites_count": 44665,
+              "id_str": "330282925",
+              "friends_count": 229,
+              "geo_enabled": true,
+              "profile_background_tile": false,
+              "profile_link_color": "1DA1F2",
+              "following": null,
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "location": "Manchester, GA",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156371618056364032/GS8pDeGb_normal.jpg",
+              "notifications": null,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1156371618056364032/GS8pDeGb_normal.jpg",
+              "verified": false,
+              "created_at": "Wed Jul 06 11:46:28 +0000 2011",
+              "utc_offset": null
+            },
+            "quote_count": 0,
+            "text": "RT @jdawsey1: Trump people, including some top White House aides, have been chattering for months that Mulvaney is about to leave or may be…",
+            "favorite_count": 0,
+            "lang": "en",
+            "id_str": "1226328048657715201",
+            "reply_count": 0,
+            "in_reply_to_status_id_str": null,
+            "retweet_count": 0,
+            "is_quote_status": false,
+            "favorited": false,
+            "created_at": "Sun Feb 09 02:12:45 +0000 2020",
+            "in_reply_to_user_id": null,
+            "entities": { - 
+              "symbols": [ - 
+
+              ],
+              "hashtags": [ - 
+
+              ],
+              "urls": [ - 
+
+              ],
+              "user_mentions": [ - 
+                { - 
+                  "id": 38936142,
+                  "indices": [ - 
+                    3,
+                    12
+                  ],
+                  "screen_name": "jdawsey1",
+                  "name": "Josh Dawsey",
+                  "id_str": "38936142"
+                }
+              ]
+            }
+          }
+        }
+      },
+      { - 
+        "_index": "topcincotwitteros",
+        "_type": "_doc",
+        "_id": "JnegOXABny8mSGyfST4V",
+        "_score": 1,
+        "_source": { - 
+          "doc_as_upsert": true,
+          "@timestamp": "2020-02-12T13:39:30.485Z",
+          "@version": "1",
+          "doc": { - 
+            "id": 1226310817475367000,
+            "retweeted": false,
+            "timestamp_ms": "1581210257296",
+            "in_reply_to_user_id_str": null,
+            "display_text_range": [ - 
+              0,
+              50
+            ],
+            "coordinates": null,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "contributors": null,
+            "filter_level": "low",
+            "extended_entities": { - 
+              "media": [ - 
+                { - 
+                  "id": 1226310809166516200,
+                  "media_url_https": "https://pbs.twimg.com/media/EQS7LwSXkAADfgt.jpg",
+                  "display_url": "pic.twitter.com/9UVcp9Jn4M",
+                  "media_url": "http://pbs.twimg.com/media/EQS7LwSXkAADfgt.jpg",
+                  "expanded_url": "https://twitter.com/MichiganMade_2/status/1226310817475366913/photo/1",
+                  "url": "https://t.co/9UVcp9Jn4M",
+                  "type": "photo",
+                  "sizes": { - 
+                    "small": { - 
+                      "w": 680,
+                      "h": 371,
+                      "resize": "fit"
+                    },
+                    "medium": { - 
+                      "w": 1200,
+                      "h": 655,
+                      "resize": "fit"
+                    },
+                    "large": { - 
+                      "w": 1980,
+                      "h": 1080,
+                      "resize": "fit"
+                    },
+                    "thumb": { - 
+                      "w": 150,
+                      "h": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "id_str": "1226310809166516224",
+                  "indices": [ - 
+                    51,
+                    74
+                  ]
+                }
+              ]
+            },
+            "geo": null,
+            "place": null,
+            "quoted_status_id": 1226303431406686200,
+            "truncated": false,
+            "in_reply_to_screen_name": null,
+            "quote_count": 0,
+            "user": { - 
+              "id": 914184180241764400,
+              "translator_type": "none",
+              "profile_background_color": "F5F8FA",
+              "protected": false,
+              "profile_background_image_url_https": "",
+              "url": "http://www.hudl.com/v/28G7gH",
+              "default_profile": true,
+              "description": "Different🌟 Blue-Grey All American ‼️ Academic Qualifier💯",
+              "statuses_count": 1248,
+              "follow_request_sent": null,
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "contributors_enabled": false,
+              "default_profile_image": false,
+              "profile_sidebar_fill_color": "DDEEF6",
+              "time_zone": null,
+              "name": "C.Doby²🤟🏾🏈",
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 1,
+              "screen_name": "MichiganMade_2",
+              "followers_count": 586,
+              "favourites_count": 465,
+              "id_str": "914184180241764352",
+              "friends_count": 1557,
+              "geo_enabled": true,
+              "profile_background_tile": false,
+              "profile_link_color": "1DA1F2",
+              "following": null,
+              "profile_background_image_url": "",
+              "location": null,
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1222385296656031744/tAHjDDfp_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/914184180241764352/1570732160",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1222385296656031744/tAHjDDfp_normal.jpg",
+              "notifications": null,
+              "verified": false,
+              "created_at": "Sat Sep 30 17:44:28 +0000 2017",
+              "utc_offset": null
+            },
+            "text": "I think he meant this , but Preciate you my boa😂‼️ https://t.co/9UVcp9Jn4M",
+            "quoted_status": { - 
+              "id": 1226303431406686200,
+              "retweeted": false,
+              "in_reply_to_user_id_str": null,
+              "display_text_range": [ - 
+                0,
+                28
+              ],
+              "coordinates": null,
+              "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+              "in_reply_to_status_id": null,
+              "contributors": null,
+              "filter_level": "low",
+              "extended_entities": { - 
+                "media": [ - 
+                  { - 
+                    "id": 1226303416097542100,
+                    "media_url_https": "https://pbs.twimg.com/media/EQS0da9XkAAhNFx.jpg",
+                    "display_url": "pic.twitter.com/jy5aWJhdZd",
+                    "media_url": "http://pbs.twimg.com/media/EQS0da9XkAAhNFx.jpg",
+                    "expanded_url": "https://twitter.com/koalas/status/1226303431406686213/photo/1",
+                    "url": "https://t.co/jy5aWJhdZd",
+                    "type": "photo",
+                    "sizes": { - 
+                      "large": { - 
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                      },
+                      "small": { - 
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                      },
+                      "thumb": { - 
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                      },
+                      "medium": { - 
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                      }
+                    },
+                    "id_str": "1226303416097542144",
+                    "indices": [ - 
+                      29,
+                      52
+                    ]
+                  },
+                  { - 
+                    "id": 1226303416105828400,
+                    "media_url_https": "https://pbs.twimg.com/media/EQS0da_WAAAW3J8.jpg",
+                    "display_url": "pic.twitter.com/jy5aWJhdZd",
+                    "media_url": "http://pbs.twimg.com/media/EQS0da_WAAAW3J8.jpg",
+                    "expanded_url": "https://twitter.com/koalas/status/1226303431406686213/photo/1",
+                    "url": "https://t.co/jy5aWJhdZd",
+                    "type": "photo",
+                    "sizes": { - 
+                      "medium": { - 
+                        "w": 1200,
+                        "h": 655,
+                        "resize": "fit"
+                      },
+                      "small": { - 
+                        "w": 680,
+                        "h": 371,
+                        "resize": "fit"
+                      },
+                      "thumb": { - 
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                      },
+                      "large": { - 
+                        "w": 1980,
+                        "h": 1080,
+                        "resize": "fit"
+                      }
+                    },
+                    "id_str": "1226303416105828352",
+                    "indices": [ - 
+                      29,
+                      52
+                    ]
+                  },
+                  { - 
+                    "id": 1226303416118411300,
+                    "media_url_https": "https://pbs.twimg.com/media/EQS0dbCWAAAA8L1.jpg",
+                    "display_url": "pic.twitter.com/jy5aWJhdZd",
+                    "media_url": "http://pbs.twimg.com/media/EQS0dbCWAAAA8L1.jpg",
+                    "expanded_url": "https://twitter.com/koalas/status/1226303431406686213/photo/1",
+                    "url": "https://t.co/jy5aWJhdZd",
+                    "type": "photo",
+                    "sizes": { - 
+                      "medium": { - 
+                        "w": 1200,
+                        "h": 655,
+                        "resize": "fit"
+                      },
+                      "small": { - 
+                        "w": 680,
+                        "h": 371,
+                        "resize": "fit"
+                      },
+                      "thumb": { - 
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                      },
+                      "large": { - 
+                        "w": 1980,
+                        "h": 1080,
+                        "resize": "fit"
+                      }
+                    },
+                    "id_str": "1226303416118411264",
+                    "indices": [ - 
+                      29,
+                      52
+                    ]
+                  },
+                  { - 
+                    "id": 1226303416126902300,
+                    "media_url_https": "https://pbs.twimg.com/media/EQS0dbEXkAAg-mA.jpg",
+                    "display_url": "pic.twitter.com/jy5aWJhdZd",
+                    "media_url": "http://pbs.twimg.com/media/EQS0dbEXkAAg-mA.jpg",
+                    "expanded_url": "https://twitter.com/koalas/status/1226303431406686213/photo/1",
+                    "url": "https://t.co/jy5aWJhdZd",
+                    "type": "photo",
+                    "sizes": { - 
+                      "small": { - 
+                        "w": 680,
+                        "h": 398,
+                        "resize": "fit"
+                      },
+                      "medium": { - 
+                        "w": 1200,
+                        "h": 702,
+                        "resize": "fit"
+                      },
+                      "large": { - 
+                        "w": 1500,
+                        "h": 878,
+                        "resize": "fit"
+                      },
+                      "thumb": { - 
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                      }
+                    },
+                    "id_str": "1226303416126902272",
+                    "indices": [ - 
+                      29,
+                      52
+                    ]
+                  }
+                ]
+              },
+              "geo": null,
+              "place": null,
+              "truncated": false,
+              "in_reply_to_screen_name": null,
+              "quote_count": 0,
+              "user": { - 
+                "id": 2909304213,
+                "translator_type": "none",
+                "profile_background_color": "022330",
+                "protected": false,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "url": "https://www.behance.net/micahwilliams05",
+                "default_profile": false,
+                "description": "graphic designer for @germantownred // my tweets on here do not reflect my partners// i do graphic edits hit up my DMs, don’t do free work‼️ // @micahwilliams05",
+                "statuses_count": 9643,
+                "follow_request_sent": null,
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "contributors_enabled": false,
+                "default_profile_image": false,
+                "profile_sidebar_fill_color": "000000",
+                "time_zone": null,
+                "name": "micah",
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 12,
+                "screen_name": "koalas",
+                "followers_count": 1330,
+                "favourites_count": 8625,
+                "id_str": "2909304213",
+                "friends_count": 356,
+                "geo_enabled": true,
+                "profile_background_tile": true,
+                "profile_link_color": "1B95E0",
+                "following": null,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "location": "Memphis, TN",
+                "profile_sidebar_border_color": "000000",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1200968705754226688/TDKYrek8_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2909304213/1580180447",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1200968705754226688/TDKYrek8_normal.jpg",
+                "notifications": null,
+                "verified": false,
+                "created_at": "Sun Dec 07 14:36:43 +0000 2014",
+                "utc_offset": null
+              },
+              "text": "Singing Day/Top 5 Graphics❗️ https://t.co/jy5aWJhdZd",
+              "possibly_sensitive": false,
+              "favorite_count": 1,
+              "lang": "en",
+              "id_str": "1226303431406686213",
+              "reply_count": 0,
+              "in_reply_to_status_id_str": null,
+              "retweet_count": 0,
+              "is_quote_status": false,
+              "favorited": false,
+              "created_at": "Sun Feb 09 00:34:56 +0000 2020",
+              "in_reply_to_user_id": null,
+              "entities": { - 
+                "media": [ - 
+                  { - 
+                    "id": 1226303416097542100,
+                    "media_url_https": "https://pbs.twimg.com/media/EQS0da9XkAAhNFx.jpg",
+                    "display_url": "pic.twitter.com/jy5aWJhdZd",
+                    "media_url": "http://pbs.twimg.com/media/EQS0da9XkAAhNFx.jpg",
+                    "expanded_url": "https://twitter.com/koalas/status/1226303431406686213/photo/1",
+                    "url": "https://t.co/jy5aWJhdZd",
+                    "type": "photo",
+                    "sizes": { - 
+                      "large": { - 
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                      },
+                      "small": { - 
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                      },
+                      "thumb": { - 
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                      },
+                      "medium": { - 
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                      }
+                    },
+                    "id_str": "1226303416097542144",
+                    "indices": [ - 
+                      29,
+                      52
+                    ]
+                  }
+                ],
+                "symbols": [ - 
+
+                ],
+                "hashtags": [ - 
+
+                ],
+                "urls": [ - 
+
+                ],
+                "user_mentions": [ - 
+
+                ]
+              }
+            },
+            "quoted_status_permalink": { - 
+              "url": "https://t.co/kFq1HgRyXZ",
+              "expanded": "https://twitter.com/koalas/status/1226303431406686213",
+              "display": "twitter.com/koalas/status/…"
+            },
+            "possibly_sensitive": false,
+            "favorite_count": 0,
+            "quoted_status_id_str": "1226303431406686213",
+            "lang": "en",
+            "id_str": "1226310817475366913",
+            "reply_count": 0,
+            "in_reply_to_status_id_str": null,
+            "retweet_count": 0,
+            "is_quote_status": true,
+            "favorited": false,
+            "created_at": "Sun Feb 09 01:04:17 +0000 2020",
+            "in_reply_to_user_id": null,
+            "entities": { - 
+              "media": [ - 
+                { - 
+                  "id": 1226310809166516200,
+                  "media_url_https": "https://pbs.twimg.com/media/EQS7LwSXkAADfgt.jpg",
+                  "display_url": "pic.twitter.com/9UVcp9Jn4M",
+                  "media_url": "http://pbs.twimg.com/media/EQS7LwSXkAADfgt.jpg",
+                  "expanded_url": "https://twitter.com/MichiganMade_2/status/1226310817475366913/photo/1",
+                  "url": "https://t.co/9UVcp9Jn4M",
+                  "type": "photo",
+                  "sizes": { - 
+                    "small": { - 
+                      "w": 680,
+                      "h": 371,
+                      "resize": "fit"
+                    },
+                    "medium": { - 
+                      "w": 1200,
+                      "h": 655,
+                      "resize": "fit"
+                    },
+                    "large": { - 
+                      "w": 1980,
+                      "h": 1080,
+                      "resize": "fit"
+                    },
+                    "thumb": { - 
+                      "w": 150,
+                      "h": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "id_str": "1226310809166516224",
+                  "indices": [ - 
+                    51,
+                    74
+                  ]
+                }
+              ],
+              "symbols": [ - 
+
+              ],
+              "hashtags": [ - 
+
+              ],
+              "urls": [ - 
+
+              ],
+              "user_mentions": [ - 
+
+              ]
+            }
+          }
+        }
+      },
+      { - 
+        "_index": "topcincotwitteros",
+        "_type": "_doc",
+        "_id": "Y3egOXABny8mSGyfUj7Z",
+        "_score": 1,
+        "_source": { - 
+          "doc_as_upsert": true,
+          "@timestamp": "2020-02-12T13:39:30.887Z",
+          "@version": "1",
+          "doc": { - 
+            "id": 1226323122292433000,
+            "retweeted": false,
+            "timestamp_ms": "1581213190993",
+            "in_reply_to_user_id_str": null,
+            "coordinates": null,
+            "contributors": null,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "filter_level": "low",
+            "geo": null,
+            "place": null,
+            "quoted_status_id": 1225878374188486700,
+            "truncated": false,
+            "in_reply_to_screen_name": null,
+            "retweeted_status": { - 
+              "id": 1225909805669404700,
+              "retweeted": false,
+              "in_reply_to_user_id_str": null,
+              "coordinates": null,
+              "contributors": null,
+              "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+              "in_reply_to_status_id": null,
+              "filter_level": "low",
+              "geo": null,
+              "place": null,
+              "quoted_status_id": 1225878374188486700,
+              "truncated": true,
+              "in_reply_to_screen_name": null,
+              "quote_count": 35,
+              "user": { - 
+                "id": 2746741969,
+                "translator_type": "none",
+                "profile_background_color": "102E5C",
+                "protected": false,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "url": "http://www.stevescalise.com",
+                "default_profile": false,
+                "description": "House GOP Whip. Congressman for Louisiana’s 1st District. Fighting for conservative values & combatting the Dems’ radical socialist agenda. Dad. Saints/LSU fan.",
+                "statuses_count": 506,
+                "follow_request_sent": null,
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "contributors_enabled": false,
+                "default_profile_image": false,
+                "profile_sidebar_fill_color": "DDEEF6",
+                "time_zone": null,
+                "name": "Steve Scalise",
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 185,
+                "screen_name": "GeauxScalise",
+                "followers_count": 66745,
+                "favourites_count": 28,
+                "id_str": "2746741969",
+                "friends_count": 1029,
+                "geo_enabled": false,
+                "profile_background_tile": false,
+                "profile_link_color": "1B62B8",
+                "following": null,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "location": "Jefferson, LA",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224498754063159296/ZLRVlEFf_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2746741969/1498066698",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1224498754063159296/ZLRVlEFf_normal.jpg",
+                "notifications": null,
+                "verified": true,
+                "created_at": "Tue Aug 19 21:15:51 +0000 2014",
+                "utc_offset": null
+              },
+              "text": "This Week: @realDonaldTrump was the only winner in Iowa.\n\nNext Week: I'm headed to New Hampshire with @TeamTrump to… https://t.co/ubmTgumCxG",
+              "quoted_status": { - 
+                "id": 1225878374188486700,
+                "retweeted": false,
+                "in_reply_to_user_id_str": null,
+                "display_text_range": [ - 
+                  0,
+                  83
+                ],
+                "coordinates": null,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "contributors": null,
+                "filter_level": "low",
+                "extended_entities": { - 
+                  "media": [ - 
+                    { - 
+                      "id": 1225878098765369300,
+                      "media_url_https": "https://pbs.twimg.com/media/EQMxosbXUAAzbJJ.jpg",
+                      "display_url": "pic.twitter.com/CShkoALtcQ",
+                      "media_url": "http://pbs.twimg.com/media/EQMxosbXUAAzbJJ.jpg",
+                      "expanded_url": "https://twitter.com/kayleighmcenany/status/1225878374188486656/photo/1",
+                      "url": "https://t.co/CShkoALtcQ",
+                      "type": "photo",
+                      "sizes": { - 
+                        "medium": { - 
+                          "w": 797,
+                          "h": 1200,
+                          "resize": "fit"
+                        },
+                        "large": { - 
+                          "w": 1242,
+                          "h": 1869,
+                          "resize": "fit"
+                        },
+                        "thumb": { - 
+                          "w": 150,
+                          "h": 150,
+                          "resize": "crop"
+                        },
+                        "small": { - 
+                          "w": 452,
+                          "h": 680,
+                          "resize": "fit"
+                        }
+                      },
+                      "id_str": "1225878098765369344",
+                      "indices": [ - 
+                        84,
+                        107
+                      ]
+                    },
+                    { - 
+                      "id": 1225878098207359000,
+                      "media_url_https": "https://pbs.twimg.com/media/EQMxoqWUwAEhmO0.jpg",
+                      "display_url": "pic.twitter.com/CShkoALtcQ",
+                      "media_url": "http://pbs.twimg.com/media/EQMxoqWUwAEhmO0.jpg",
+                      "expanded_url": "https://twitter.com/kayleighmcenany/status/1225878374188486656/photo/1",
+                      "url": "https://t.co/CShkoALtcQ",
+                      "type": "photo",
+                      "sizes": { - 
+                        "small": { - 
+                          "w": 449,
+                          "h": 680,
+                          "resize": "fit"
+                        },
+                        "large": { - 
+                          "w": 1242,
+                          "h": 1883,
+                          "resize": "fit"
+                        },
+                        "thumb": { - 
+                          "w": 150,
+                          "h": 150,
+                          "resize": "crop"
+                        },
+                        "medium": { - 
+                          "w": 792,
+                          "h": 1200,
+                          "resize": "fit"
+                        }
+                      },
+                      "id_str": "1225878098207358977",
+                      "indices": [ - 
+                        84,
+                        107
+                      ]
+                    },
+                    { - 
+                      "id": 1225878098274439200,
+                      "media_url_https": "https://pbs.twimg.com/media/EQMxoqmUUAAurAK.jpg",
+                      "display_url": "pic.twitter.com/CShkoALtcQ",
+                      "media_url": "http://pbs.twimg.com/media/EQMxoqmUUAAurAK.jpg",
+                      "expanded_url": "https://twitter.com/kayleighmcenany/status/1225878374188486656/photo/1",
+                      "url": "https://t.co/CShkoALtcQ",
+                      "type": "photo",
+                      "sizes": { - 
+                        "medium": { - 
+                          "w": 832,
+                          "h": 1200,
+                          "resize": "fit"
+                        },
+                        "large": { - 
+                          "w": 1242,
+                          "h": 1791,
+                          "resize": "fit"
+                        },
+                        "thumb": { - 
+                          "w": 150,
+                          "h": 150,
+                          "resize": "crop"
+                        },
+                        "small": { - 
+                          "w": 472,
+                          "h": 680,
+                          "resize": "fit"
+                        }
+                      },
+                      "id_str": "1225878098274439168",
+                      "indices": [ - 
+                        84,
+                        107
+                      ]
+                    }
+                  ]
+                },
+                "geo": null,
+                "place": null,
+                "truncated": false,
+                "in_reply_to_screen_name": null,
+                "quote_count": 5,
+                "user": { - 
+                  "id": 259001548,
+                  "translator_type": "none",
+                  "profile_background_color": "0099B9",
+                  "protected": false,
+                  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                  "url": "https://www.amazon.com/New-American-Revolution-Populist-Movement/dp/1501179683/ref=sr_1_1?ie=UTF8&qi",
+                  "default_profile": false,
+                  "description": "National Press Secretary for @realDonaldTrump 2020 Campaign. Fmr @GOP Spox. Harvard Law JD. Georgetown. Oxford. Previvor. Wife of @GilmartinSean. Phil. 4:6",
+                  "statuses_count": 19812,
+                  "follow_request_sent": null,
+                  "profile_text_color": "3C3940",
+                  "profile_use_background_image": true,
+                  "contributors_enabled": false,
+                  "default_profile_image": false,
+                  "profile_sidebar_fill_color": "95E8EC",
+                  "time_zone": null,
+                  "name": "Kayleigh McEnany",
+                  "is_translator": false,
+                  "lang": null,
+                  "listed_count": 2257,
+                  "screen_name": "kayleighmcenany",
+                  "followers_count": 348645,
+                  "favourites_count": 13593,
+                  "id_str": "259001548",
+                  "friends_count": 2217,
+                  "geo_enabled": false,
+                  "profile_background_tile": true,
+                  "profile_link_color": "0099B9",
+                  "following": null,
+                  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                  "location": null,
+                  "profile_sidebar_border_color": "FFFFFF",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1073411942260359169/HkXU8qsk_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/259001548/1578692228",
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1073411942260359169/HkXU8qsk_normal.jpg",
+                  "notifications": null,
+                  "verified": true,
+                  "created_at": "Mon Feb 28 23:33:33 +0000 2011",
+                  "utc_offset": null
+                },
+                "text": ".@TeamTrump Announces Top @realDonaldTrump Surrogates for New Hampshire Primary! ⬇️ https://t.co/CShkoALtcQ",
+                "possibly_sensitive": false,
+                "favorite_count": 1345,
+                "lang": "en",
+                "id_str": "1225878374188486656",
+                "reply_count": 42,
+                "in_reply_to_status_id_str": null,
+                "retweet_count": 398,
+                "is_quote_status": false,
+                "favorited": false,
+                "created_at": "Fri Feb 07 20:25:54 +0000 2020",
+                "in_reply_to_user_id": null,
+                "entities": { - 
+                  "media": [ - 
+                    { - 
+                      "id": 1225878098765369300,
+                      "media_url_https": "https://pbs.twimg.com/media/EQMxosbXUAAzbJJ.jpg",
+                      "display_url": "pic.twitter.com/CShkoALtcQ",
+                      "media_url": "http://pbs.twimg.com/media/EQMxosbXUAAzbJJ.jpg",
+                      "expanded_url": "https://twitter.com/kayleighmcenany/status/1225878374188486656/photo/1",
+                      "url": "https://t.co/CShkoALtcQ",
+                      "type": "photo",
+                      "sizes": { - 
+                        "medium": { - 
+                          "w": 797,
+                          "h": 1200,
+                          "resize": "fit"
+                        },
+                        "large": { - 
+                          "w": 1242,
+                          "h": 1869,
+                          "resize": "fit"
+                        },
+                        "thumb": { - 
+                          "w": 150,
+                          "h": 150,
+                          "resize": "crop"
+                        },
+                        "small": { - 
+                          "w": 452,
+                          "h": 680,
+                          "resize": "fit"
+                        }
+                      },
+                      "id_str": "1225878098765369344",
+                      "indices": [ - 
+                        84,
+                        107
+                      ]
+                    }
+                  ],
+                  "symbols": [ - 
+
+                  ],
+                  "hashtags": [ - 
+
+                  ],
+                  "urls": [ - 
+
+                  ],
+                  "user_mentions": [ - 
+                    { - 
+                      "id": 729676086632656900,
+                      "indices": [ - 
+                        1,
+                        11
+                      ],
+                      "screen_name": "TeamTrump",
+                      "name": "Team Trump (Text TRUMP to 88022)",
+                      "id_str": "729676086632656900"
+                    },
+                    { - 
+                      "id": 25073877,
+                      "indices": [ - 
+                        26,
+                        42
+                      ],
+                      "screen_name": "realDonaldTrump",
+                      "name": "Donald J. Trump",
+                      "id_str": "25073877"
+                    }
+                  ]
+                }
+              },
+              "quoted_status_permalink": { - 
+                "url": "https://t.co/G5HnG7eVsW",
+                "expanded": "https://twitter.com/kayleighmcenany/status/1225878374188486656",
+                "display": "twitter.com/kayleighmcenan…"
+              },
+              "favorite_count": 9779,
+              "quoted_status_id_str": "1225878374188486656",
+              "lang": "en",
+              "id_str": "1225909805669404672",
+              "reply_count": 248,
+              "in_reply_to_status_id_str": null,
+              "retweet_count": 2709,
+              "extended_tweet": { - 
+                "full_text": "This Week: @realDonaldTrump was the only winner in Iowa.\n\nNext Week: I'm headed to New Hampshire with @TeamTrump to keep the momentum going!\n\n#KeepAmericaGreat 🇺🇸",
+                "display_text_range": [ - 
+                  0,
+                  162
+                ],
+                "entities": { - 
+                  "symbols": [ - 
+
+                  ],
+                  "hashtags": [ - 
+                    { - 
+                      "indices": [ - 
+                        142,
+                        159
+                      ],
+                      "text": "KeepAmericaGreat"
+                    }
+                  ],
+                  "urls": [ - 
+
+                  ],
+                  "user_mentions": [ - 
+                    { - 
+                      "id": 25073877,
+                      "indices": [ - 
+                        11,
+                        27
+                      ],
+                      "screen_name": "realDonaldTrump",
+                      "name": "Donald J. Trump",
+                      "id_str": "25073877"
+                    },
+                    { - 
+                      "id": 729676086632656900,
+                      "indices": [ - 
+                        102,
+                        112
+                      ],
+                      "screen_name": "TeamTrump",
+                      "name": "Team Trump (Text TRUMP to 88022)",
+                      "id_str": "729676086632656900"
+                    }
+                  ]
+                }
+              },
+              "is_quote_status": true,
+              "favorited": false,
+              "created_at": "Fri Feb 07 22:30:48 +0000 2020",
+              "in_reply_to_user_id": null,
+              "entities": { - 
+                "symbols": [ - 
+
+                ],
+                "hashtags": [ - 
+
+                ],
+                "urls": [ - 
+                  { - 
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "url": "https://t.co/ubmTgumCxG",
+                    "expanded_url": "https://twitter.com/i/web/status/1225909805669404672",
+                    "indices": [ - 
+                      117,
+                      140
+                    ]
+                  }
+                ],
+                "user_mentions": [ - 
+                  { - 
+                    "id": 25073877,
+                    "indices": [ - 
+                      11,
+                      27
+                    ],
+                    "screen_name": "realDonaldTrump",
+                    "name": "Donald J. Trump",
+                    "id_str": "25073877"
+                  },
+                  { - 
+                    "id": 729676086632656900,
+                    "indices": [ - 
+                      102,
+                      112
+                    ],
+                    "screen_name": "TeamTrump",
+                    "name": "Team Trump (Text TRUMP to 88022)",
+                    "id_str": "729676086632656900"
+                  }
+                ]
+              }
+            },
+            "user": { - 
+              "id": 2749225968,
+              "translator_type": "none",
+              "profile_background_color": "C0DEED",
+              "protected": false,
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "url": null,
+              "default_profile": true,
+              "description": null,
+              "statuses_count": 254203,
+              "follow_request_sent": null,
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "contributors_enabled": false,
+              "default_profile_image": false,
+              "profile_sidebar_fill_color": "DDEEF6",
+              "time_zone": null,
+              "name": "Kathy Crane",
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 105,
+              "screen_name": "Kawney2",
+              "followers_count": 1925,
+              "favourites_count": 185494,
+              "id_str": "2749225968",
+              "friends_count": 1847,
+              "geo_enabled": false,
+              "profile_background_tile": false,
+              "profile_link_color": "1DA1F2",
+              "following": null,
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "location": null,
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "notifications": null,
+              "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "verified": false,
+              "created_at": "Wed Aug 20 14:52:37 +0000 2014",
+              "utc_offset": null
+            },
+            "quote_count": 0,
+            "text": "RT @GeauxScalise: This Week: @realDonaldTrump was the only winner in Iowa.\n\nNext Week: I'm headed to New Hampshire with @TeamTrump to keep…",
+            "quoted_status": { - 
+              "id": 1225878374188486700,
+              "retweeted": false,
+              "in_reply_to_user_id_str": null,
+              "display_text_range": [ - 
+                0,
+                83
+              ],
+              "coordinates": null,
+              "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+              "in_reply_to_status_id": null,
+              "contributors": null,
+              "filter_level": "low",
+              "extended_entities": { - 
+                "media": [ - 
+                  { - 
+                    "id": 1225878098765369300,
+                    "media_url_https": "https://pbs.twimg.com/media/EQMxosbXUAAzbJJ.jpg",
+                    "display_url": "pic.twitter.com/CShkoALtcQ",
+                    "media_url": "http://pbs.twimg.com/media/EQMxosbXUAAzbJJ.jpg",
+                    "expanded_url": "https://twitter.com/kayleighmcenany/status/1225878374188486656/photo/1",
+                    "url": "https://t.co/CShkoALtcQ",
+                    "type": "photo",
+                    "sizes": { - 
+                      "medium": { - 
+                        "w": 797,
+                        "h": 1200,
+                        "resize": "fit"
+                      },
+                      "large": { - 
+                        "w": 1242,
+                        "h": 1869,
+                        "resize": "fit"
+                      },
+                      "thumb": { - 
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                      },
+                      "small": { - 
+                        "w": 452,
+                        "h": 680,
+                        "resize": "fit"
+                      }
+                    },
+                    "id_str": "1225878098765369344",
+                    "indices": [ - 
+                      84,
+                      107
+                    ]
+                  },
+                  { - 
+                    "id": 1225878098207359000,
+                    "media_url_https": "https://pbs.twimg.com/media/EQMxoqWUwAEhmO0.jpg",
+                    "display_url": "pic.twitter.com/CShkoALtcQ",
+                    "media_url": "http://pbs.twimg.com/media/EQMxoqWUwAEhmO0.jpg",
+                    "expanded_url": "https://twitter.com/kayleighmcenany/status/1225878374188486656/photo/1",
+                    "url": "https://t.co/CShkoALtcQ",
+                    "type": "photo",
+                    "sizes": { - 
+                      "small": { - 
+                        "w": 449,
+                        "h": 680,
+                        "resize": "fit"
+                      },
+                      "large": { - 
+                        "w": 1242,
+                        "h": 1883,
+                        "resize": "fit"
+                      },
+                      "thumb": { - 
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                      },
+                      "medium": { - 
+                        "w": 792,
+                        "h": 1200,
+                        "resize": "fit"
+                      }
+                    },
+                    "id_str": "1225878098207358977",
+                    "indices": [ - 
+                      84,
+                      107
+                    ]
+                  },
+                  { - 
+                    "id": 1225878098274439200,
+                    "media_url_https": "https://pbs.twimg.com/media/EQMxoqmUUAAurAK.jpg",
+                    "display_url": "pic.twitter.com/CShkoALtcQ",
+                    "media_url": "http://pbs.twimg.com/media/EQMxoqmUUAAurAK.jpg",
+                    "expanded_url": "https://twitter.com/kayleighmcenany/status/1225878374188486656/photo/1",
+                    "url": "https://t.co/CShkoALtcQ",
+                    "type": "photo",
+                    "sizes": { - 
+                      "medium": { - 
+                        "w": 832,
+                        "h": 1200,
+                        "resize": "fit"
+                      },
+                      "large": { - 
+                        "w": 1242,
+                        "h": 1791,
+                        "resize": "fit"
+                      },
+                      "thumb": { - 
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                      },
+                      "small": { - 
+                        "w": 472,
+                        "h": 680,
+                        "resize": "fit"
+                      }
+                    },
+                    "id_str": "1225878098274439168",
+                    "indices": [ - 
+                      84,
+                      107
+                    ]
+                  }
+                ]
+              },
+              "geo": null,
+              "place": null,
+              "truncated": false,
+              "in_reply_to_screen_name": null,
+              "quote_count": 5,
+              "user": { - 
+                "id": 259001548,
+                "translator_type": "none",
+                "profile_background_color": "0099B9",
+                "protected": false,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                "url": "https://www.amazon.com/New-American-Revolution-Populist-Movement/dp/1501179683/ref=sr_1_1?ie=UTF8&qi",
+                "default_profile": false,
+                "description": "National Press Secretary for @realDonaldTrump 2020 Campaign. Fmr @GOP Spox. Harvard Law JD. Georgetown. Oxford. Previvor. Wife of @GilmartinSean. Phil. 4:6",
+                "statuses_count": 19812,
+                "follow_request_sent": null,
+                "profile_text_color": "3C3940",
+                "profile_use_background_image": true,
+                "contributors_enabled": false,
+                "default_profile_image": false,
+                "profile_sidebar_fill_color": "95E8EC",
+                "time_zone": null,
+                "name": "Kayleigh McEnany",
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 2257,
+                "screen_name": "kayleighmcenany",
+                "followers_count": 348645,
+                "favourites_count": 13593,
+                "id_str": "259001548",
+                "friends_count": 2217,
+                "geo_enabled": false,
+                "profile_background_tile": true,
+                "profile_link_color": "0099B9",
+                "following": null,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                "location": null,
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1073411942260359169/HkXU8qsk_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/259001548/1578692228",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1073411942260359169/HkXU8qsk_normal.jpg",
+                "notifications": null,
+                "verified": true,
+                "created_at": "Mon Feb 28 23:33:33 +0000 2011",
+                "utc_offset": null
+              },
+              "text": ".@TeamTrump Announces Top @realDonaldTrump Surrogates for New Hampshire Primary! ⬇️ https://t.co/CShkoALtcQ",
+              "possibly_sensitive": false,
+              "favorite_count": 1345,
+              "lang": "en",
+              "id_str": "1225878374188486656",
+              "reply_count": 42,
+              "in_reply_to_status_id_str": null,
+              "retweet_count": 398,
+              "is_quote_status": false,
+              "favorited": false,
+              "created_at": "Fri Feb 07 20:25:54 +0000 2020",
+              "in_reply_to_user_id": null,
+              "entities": { - 
+                "media": [ - 
+                  { - 
+                    "id": 1225878098765369300,
+                    "media_url_https": "https://pbs.twimg.com/media/EQMxosbXUAAzbJJ.jpg",
+                    "display_url": "pic.twitter.com/CShkoALtcQ",
+                    "media_url": "http://pbs.twimg.com/media/EQMxosbXUAAzbJJ.jpg",
+                    "expanded_url": "https://twitter.com/kayleighmcenany/status/1225878374188486656/photo/1",
+                    "url": "https://t.co/CShkoALtcQ",
+                    "type": "photo",
+                    "sizes": { - 
+                      "medium": { - 
+                        "w": 797,
+                        "h": 1200,
+                        "resize": "fit"
+                      },
+                      "large": { - 
+                        "w": 1242,
+                        "h": 1869,
+                        "resize": "fit"
+                      },
+                      "thumb": { - 
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                      },
+                      "small": { - 
+                        "w": 452,
+                        "h": 680,
+                        "resize": "fit"
+                      }
+                    },
+                    "id_str": "1225878098765369344",
+                    "indices": [ - 
+                      84,
+                      107
+                    ]
+                  }
+                ],
+                "symbols": [ - 
+
+                ],
+                "hashtags": [ - 
+
+                ],
+                "urls": [ - 
+
+                ],
+                "user_mentions": [ - 
+                  { - 
+                    "id": 729676086632656900,
+                    "indices": [ - 
+                      1,
+                      11
+                    ],
+                    "screen_name": "TeamTrump",
+                    "name": "Team Trump (Text TRUMP to 88022)",
+                    "id_str": "729676086632656900"
+                  },
+                  { - 
+                    "id": 25073877,
+                    "indices": [ - 
+                      26,
+                      42
+                    ],
+                    "screen_name": "realDonaldTrump",
+                    "name": "Donald J. Trump",
+                    "id_str": "25073877"
+                  }
+                ]
+              }
+            },
+            "quoted_status_permalink": { - 
+              "url": "https://t.co/G5HnG7eVsW",
+              "expanded": "https://twitter.com/kayleighmcenany/status/1225878374188486656",
+              "display": "twitter.com/kayleighmcenan…"
+            },
+            "favorite_count": 0,
+            "quoted_status_id_str": "1225878374188486656",
+            "lang": "en",
+            "id_str": "1226323122292432898",
+            "reply_count": 0,
+            "in_reply_to_status_id_str": null,
+            "retweet_count": 0,
+            "is_quote_status": true,
+            "favorited": false,
+            "created_at": "Sun Feb 09 01:53:10 +0000 2020",
+            "in_reply_to_user_id": null,
+            "entities": { - 
+              "symbols": [ - 
+
+              ],
+              "hashtags": [ - 
+
+              ],
+              "urls": [ - 
+
+              ],
+              "user_mentions": [ - 
+                { - 
+                  "id": 2746741969,
+                  "indices": [ - 
+                    3,
+                    16
+                  ],
+                  "screen_name": "GeauxScalise",
+                  "name": "Steve Scalise",
+                  "id_str": "2746741969"
+                },
+                { - 
+                  "id": 25073877,
+                  "indices": [ - 
+                    29,
+                    45
+                  ],
+                  "screen_name": "realDonaldTrump",
+                  "name": "Donald J. Trump",
+                  "id_str": "25073877"
+                },
+                { - 
+                  "id": 729676086632656900,
+                  "indices": [ - 
+                    120,
+                    130
+                  ],
+                  "screen_name": "TeamTrump",
+                  "name": "Team Trump (Text TRUMP to 88022)",
+                  "id_str": "729676086632656900"
+                }
+              ]
+            }
+          }
+        }
+      },
+      { - 
+        "_index": "topcincotwitteros",
+        "_type": "_doc",
+        "_id": "ZHegOXABny8mSGyfUj7Z",
+        "_score": 1,
+        "_source": { - 
+          "doc_as_upsert": true,
+          "@timestamp": "2020-02-12T13:39:30.894Z",
+          "@version": "1",
+          "doc": { - 
+            "id": 1226322931606835200,
+            "retweeted": false,
+            "timestamp_ms": "1581213145530",
+            "in_reply_to_user_id_str": null,
+            "display_text_range": [ - 
+              0,
+              41
+            ],
+            "coordinates": null,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "contributors": null,
+            "filter_level": "low",
+            "extended_entities": { - 
+              "media": [ - 
+                { - 
+                  "id": 1226322898530553900,
+                  "media_url_https": "https://pbs.twimg.com/media/EQTGLcrXUAEv3xn.jpg",
+                  "display_url": "pic.twitter.com/C0g5IuxJT8",
+                  "media_url": "http://pbs.twimg.com/media/EQTGLcrXUAEv3xn.jpg",
+                  "expanded_url": "https://twitter.com/merly_ranille/status/1226322931606835200/photo/1",
+                  "url": "https://t.co/C0g5IuxJT8",
+                  "type": "photo",
+                  "sizes": { - 
+                    "medium": { - 
+                      "w": 584,
+                      "h": 1200,
+                      "resize": "fit"
+                    },
+                    "small": { - 
+                      "w": 331,
+                      "h": 680,
+                      "resize": "fit"
+                    },
+                    "large": { - 
+                      "w": 996,
+                      "h": 2048,
+                      "resize": "fit"
+                    },
+                    "thumb": { - 
+                      "w": 150,
+                      "h": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "id_str": "1226322898530553857",
+                  "indices": [ - 
+                    42,
+                    65
+                  ]
+                }
+              ]
+            },
+            "geo": null,
+            "place": null,
+            "truncated": false,
+            "in_reply_to_screen_name": null,
+            "quote_count": 0,
+            "user": { - 
+              "id": 858961640477278200,
+              "translator_type": "none",
+              "profile_background_color": "F5F8FA",
+              "protected": false,
+              "profile_background_image_url_https": "",
+              "url": null,
+              "default_profile": true,
+              "description": null,
+              "statuses_count": 1927,
+              "follow_request_sent": null,
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "contributors_enabled": false,
+              "default_profile_image": false,
+              "profile_sidebar_fill_color": "DDEEF6",
+              "time_zone": null,
+              "name": "silent fan_loudre",
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 0,
+              "screen_name": "merly_ranille",
+              "followers_count": 11,
+              "favourites_count": 687,
+              "id_str": "858961640477278209",
+              "friends_count": 86,
+              "geo_enabled": false,
+              "profile_background_tile": false,
+              "profile_link_color": "1DA1F2",
+              "following": null,
+              "profile_background_image_url": "",
+              "location": null,
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1176444898339278854/_DZeYEF3_normal.jpg",
+              "notifications": null,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1176444898339278854/_DZeYEF3_normal.jpg",
+              "verified": false,
+              "created_at": "Mon May 01 08:29:48 +0000 2017",
+              "utc_offset": null
+            },
+            "text": "wow!!!! top spot\n#MatanglawinSundayIsLove https://t.co/C0g5IuxJT8",
+            "possibly_sensitive": false,
+            "favorite_count": 0,
+            "lang": "en",
+            "id_str": "1226322931606835200",
+            "reply_count": 0,
+            "in_reply_to_status_id_str": null,
+            "retweet_count": 0,
+            "is_quote_status": false,
+            "favorited": false,
+            "created_at": "Sun Feb 09 01:52:25 +0000 2020",
+            "in_reply_to_user_id": null,
+            "entities": { - 
+              "media": [ - 
+                { - 
+                  "id": 1226322898530553900,
+                  "media_url_https": "https://pbs.twimg.com/media/EQTGLcrXUAEv3xn.jpg",
+                  "display_url": "pic.twitter.com/C0g5IuxJT8",
+                  "media_url": "http://pbs.twimg.com/media/EQTGLcrXUAEv3xn.jpg",
+                  "expanded_url": "https://twitter.com/merly_ranille/status/1226322931606835200/photo/1",
+                  "url": "https://t.co/C0g5IuxJT8",
+                  "type": "photo",
+                  "sizes": { - 
+                    "medium": { - 
+                      "w": 584,
+                      "h": 1200,
+                      "resize": "fit"
+                    },
+                    "small": { - 
+                      "w": 331,
+                      "h": 680,
+                      "resize": "fit"
+                    },
+                    "large": { - 
+                      "w": 996,
+                      "h": 2048,
+                      "resize": "fit"
+                    },
+                    "thumb": { - 
+                      "w": 150,
+                      "h": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "id_str": "1226322898530553857",
+                  "indices": [ - 
+                    42,
+                    65
+                  ]
+                }
+              ],
+              "symbols": [ - 
+
+              ],
+              "hashtags": [ - 
+                { - 
+                  "indices": [ - 
+                    17,
+                    41
+                  ],
+                  "text": "MatanglawinSundayIsLove"
+                }
+              ],
+              "urls": [ - 
+
+              ],
+              "user_mentions": [ - 
+
+              ]
+            }
+          }
+        }
+      },
+      { - 
+        "_index": "topcincotwitteros",
+        "_type": "_doc",
+        "_id": "ZXegOXABny8mSGyfUj7Z",
+        "_score": 1,
+        "_source": { - 
+          "doc_as_upsert": true,
+          "@timestamp": "2020-02-12T13:39:31.154Z",
+          "@version": "1",
+          "doc": { - 
+            "id": 1226322829555224600,
+            "retweeted": false,
+            "timestamp_ms": "1581213121199",
+            "in_reply_to_user_id_str": null,
+            "display_text_range": [ - 
+              0,
+              5
+            ],
+            "coordinates": null,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "contributors": null,
+            "filter_level": "low",
+            "extended_entities": { - 
+              "media": [ - 
+                { - 
+                  "id": 1226322826782703600,
+                  "media_url_https": "https://pbs.twimg.com/media/EQTGHRZWAAAbyP1.jpg",
+                  "display_url": "pic.twitter.com/GlmZJOXTrZ",
+                  "media_url": "http://pbs.twimg.com/media/EQTGHRZWAAAbyP1.jpg",
+                  "expanded_url": "https://twitter.com/__Bruuuuuno__/status/1226322829555224576/photo/1",
+                  "url": "https://t.co/GlmZJOXTrZ",
+                  "type": "photo",
+                  "sizes": { - 
+                    "large": { - 
+                      "w": 719,
+                      "h": 408,
+                      "resize": "fit"
+                    },
+                    "small": { - 
+                      "w": 680,
+                      "h": 386,
+                      "resize": "fit"
+                    },
+                    "thumb": { - 
+                      "w": 150,
+                      "h": 150,
+                      "resize": "crop"
+                    },
+                    "medium": { - 
+                      "w": 719,
+                      "h": 408,
+                      "resize": "fit"
+                    }
+                  },
+                  "id_str": "1226322826782703616",
+                  "indices": [ - 
+                    6,
+                    29
+                  ]
+                }
+              ]
+            },
+            "geo": null,
+            "place": null,
+            "truncated": false,
+            "in_reply_to_screen_name": null,
+            "quote_count": 0,
+            "user": { - 
+              "id": 1226318109906292700,
+              "translator_type": "none",
+              "profile_background_color": "F5F8FA",
+              "protected": false,
+              "profile_background_image_url_https": "",
+              "url": null,
+              "default_profile": true,
+              "description": "BATATASSAURO",
+              "statuses_count": 1,
+              "follow_request_sent": null,
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "contributors_enabled": false,
+              "default_profile_image": false,
+              "profile_sidebar_fill_color": "DDEEF6",
+              "time_zone": null,
+              "name": "Bruno Gabriel",
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 0,
+              "screen_name": "__Bruuuuuno__",
+              "followers_count": 0,
+              "favourites_count": 3,
+              "id_str": "1226318109906292737",
+              "friends_count": 5,
+              "geo_enabled": false,
+              "profile_background_tile": false,
+              "profile_link_color": "1DA1F2",
+              "following": null,
+              "profile_background_image_url": "",
+              "location": null,
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226318516548067328/N-tAgyh__normal.jpg",
+              "notifications": null,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1226318516548067328/N-tAgyh__normal.jpg",
+              "verified": false,
+              "created_at": "Sun Feb 09 01:33:25 +0000 2020",
+              "utc_offset": null
+            },
+            "text": "É top https://t.co/GlmZJOXTrZ",
+            "possibly_sensitive": false,
+            "favorite_count": 0,
+            "lang": "pt",
+            "id_str": "1226322829555224576",
+            "reply_count": 0,
+            "in_reply_to_status_id_str": null,
+            "retweet_count": 0,
+            "is_quote_status": false,
+            "favorited": false,
+            "created_at": "Sun Feb 09 01:52:01 +0000 2020",
+            "in_reply_to_user_id": null,
+            "entities": { - 
+              "media": [ - 
+                { - 
+                  "id": 1226322826782703600,
+                  "media_url_https": "https://pbs.twimg.com/media/EQTGHRZWAAAbyP1.jpg",
+                  "display_url": "pic.twitter.com/GlmZJOXTrZ",
+                  "media_url": "http://pbs.twimg.com/media/EQTGHRZWAAAbyP1.jpg",
+                  "expanded_url": "https://twitter.com/__Bruuuuuno__/status/1226322829555224576/photo/1",
+                  "url": "https://t.co/GlmZJOXTrZ",
+                  "type": "photo",
+                  "sizes": { - 
+                    "large": { - 
+                      "w": 719,
+                      "h": 408,
+                      "resize": "fit"
+                    },
+                    "small": { - 
+                      "w": 680,
+                      "h": 386,
+                      "resize": "fit"
+                    },
+                    "thumb": { - 
+                      "w": 150,
+                      "h": 150,
+                      "resize": "crop"
+                    },
+                    "medium": { - 
+                      "w": 719,
+                      "h": 408,
+                      "resize": "fit"
+                    }
+                  },
+                  "id_str": "1226322826782703616",
+                  "indices": [ - 
+                    6,
+                    29
+                  ]
+                }
+              ],
+              "symbols": [ - 
+
+              ],
+              "hashtags": [ - 
+
+              ],
+              "urls": [ - 
+
+              ],
+              "user_mentions": [ - 
+
+              ]
+            }
+          }
+        }
+      },
+      { - 
+        "_index": "topcincotwitteros",
+        "_type": "_doc",
+        "_id": "ZnegOXABny8mSGyfUj7Z",
+        "_score": 1,
+        "_source": { - 
+          "doc_as_upsert": true,
+          "@timestamp": "2020-02-12T13:39:31.161Z",
+          "@version": "1",
+          "doc": { - 
+            "id": 1226322932701581300,
+            "retweeted": false,
+            "timestamp_ms": "1581213145791",
+            "in_reply_to_user_id_str": null,
+            "coordinates": null,
+            "contributors": null,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "filter_level": "low",
+            "geo": null,
+            "place": null,
+            "truncated": false,
+            "in_reply_to_screen_name": null,
+            "retweeted_status": { - 
+              "id": 1226322347784835000,
+              "retweeted": false,
+              "in_reply_to_user_id_str": null,
+              "coordinates": null,
+              "contributors": null,
+              "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+              "in_reply_to_status_id": null,
+              "filter_level": "low",
+              "geo": null,
+              "place": null,
+              "truncated": false,
+              "in_reply_to_screen_name": null,
+              "quote_count": 0,
+              "user": { - 
+                "id": 92681561,
+                "translator_type": "none",
+                "profile_background_color": "022330",
+                "protected": false,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "url": null,
+                "default_profile": false,
+                "description": "💙🙏🏽🏁|Bull City|NCAT Alumnus|1906|NCCU Law|",
+                "statuses_count": 48432,
+                "follow_request_sent": null,
+                "profile_text_color": "F5F2F2",
+                "profile_use_background_image": true,
+                "contributors_enabled": false,
+                "default_profile_image": false,
+                "profile_sidebar_fill_color": "0B5FB8",
+                "time_zone": null,
+                "name": "〽️🏁",
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 8,
+                "screen_name": "MajinHot",
+                "followers_count": 925,
+                "favourites_count": 21881,
+                "id_str": "92681561",
+                "friends_count": 387,
+                "geo_enabled": true,
+                "profile_background_tile": true,
+                "profile_link_color": "60ED0E",
+                "following": null,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "location": "Between Humble and Hell Nah",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1219635406070788097/U8KR-364_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/92681561/1560085605",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1219635406070788097/U8KR-364_normal.jpg",
+                "notifications": null,
+                "verified": false,
+                "created_at": "Thu Nov 26 04:14:19 +0000 2009",
+                "utc_offset": null
+              },
+              "text": "Way too many missed free throws, on top of those shitty calls",
+              "favorite_count": 1,
+              "lang": "en",
+              "id_str": "1226322347784835072",
+              "reply_count": 0,
+              "in_reply_to_status_id_str": null,
+              "retweet_count": 1,
+              "is_quote_status": false,
+              "favorited": false,
+              "created_at": "Sun Feb 09 01:50:06 +0000 2020",
+              "in_reply_to_user_id": null,
+              "entities": { - 
+                "symbols": [ - 
+
+                ],
+                "hashtags": [ - 
+
+                ],
+                "urls": [ - 
+
+                ],
+                "user_mentions": [ - 
+
+                ]
+              }
+            },
+            "user": { - 
+              "id": 170450145,
+              "translator_type": "none",
+              "profile_background_color": "DBE9ED",
+              "protected": false,
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "url": null,
+              "default_profile": false,
+              "description": "💯🐐💯 ↑ The Influence #GetTheStix #NCAT IG: S_Silver - Snapchat: SSilver3 #LTM #BoyDad",
+              "statuses_count": 40615,
+              "follow_request_sent": null,
+              "profile_text_color": "734F19",
+              "profile_use_background_image": true,
+              "contributors_enabled": false,
+              "default_profile_image": false,
+              "profile_sidebar_fill_color": "090A09",
+              "time_zone": null,
+              "name": "🧘🏿‍♂️§terling §ilver🧘🏿‍♂️",
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 6,
+              "screen_name": "Sterling_Silv",
+              "followers_count": 838,
+              "favourites_count": 1589,
+              "id_str": "170450145",
+              "friends_count": 783,
+              "geo_enabled": true,
+              "profile_background_tile": true,
+              "profile_link_color": "CC3366",
+              "following": null,
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "location": "919-336 ",
+              "profile_sidebar_border_color": "FFFFFF",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224742961013035011/TdlQTzRq_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/170450145/1365667350",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1224742961013035011/TdlQTzRq_normal.jpg",
+              "notifications": null,
+              "verified": false,
+              "created_at": "Sat Jul 24 21:41:33 +0000 2010",
+              "utc_offset": null
+            },
+            "quote_count": 0,
+            "text": "RT @MajinHot: Way too many missed free throws, on top of those shitty calls",
+            "favorite_count": 0,
+            "lang": "en",
+            "id_str": "1226322932701581315",
+            "reply_count": 0,
+            "in_reply_to_status_id_str": null,
+            "retweet_count": 0,
+            "is_quote_status": false,
+            "favorited": false,
+            "created_at": "Sun Feb 09 01:52:25 +0000 2020",
+            "in_reply_to_user_id": null,
+            "entities": { - 
+              "symbols": [ - 
+
+              ],
+              "hashtags": [ - 
+
+              ],
+              "urls": [ - 
+
+              ],
+              "user_mentions": [ - 
+                { - 
+                  "id": 92681561,
+                  "indices": [ - 
+                    3,
+                    12
+                  ],
+                  "screen_name": "MajinHot",
+                  "name": "〽️🏁",
+                  "id_str": "92681561"
+                }
+              ]
+            }
+          }
+        }
+      },
+      { - 
+        "_index": "topcincotwitteros",
+        "_type": "_doc",
+        "_id": "Z3egOXABny8mSGyfUj7Z",
+        "_score": 1,
+        "_source": { - 
+          "doc_as_upsert": true,
+          "@timestamp": "2020-02-12T13:39:31.161Z",
+          "@version": "1",
+          "doc": { - 
+            "id": 1226310816330326000,
+            "retweeted": false,
+            "timestamp_ms": "1581210257023",
+            "in_reply_to_user_id_str": null,
+            "coordinates": null,
+            "contributors": null,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "filter_level": "low",
+            "geo": null,
+            "place": null,
+            "truncated": false,
+            "in_reply_to_screen_name": null,
+            "retweeted_status": { - 
+              "id": 1226309782522474500,
+              "retweeted": false,
+              "in_reply_to_user_id_str": null,
+              "coordinates": null,
+              "contributors": null,
+              "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+              "in_reply_to_status_id": null,
+              "filter_level": "low",
+              "geo": null,
+              "place": null,
+              "truncated": true,
+              "in_reply_to_screen_name": null,
+              "quote_count": 0,
+              "user": { - 
+                "id": 20751449,
+                "translator_type": "none",
+                "profile_background_color": "F2F2F2",
+                "protected": false,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "url": "http://www.thehindu.com/",
+                "default_profile": false,
+                "description": "News feeds from India's National Newspaper",
+                "statuses_count": 296630,
+                "follow_request_sent": null,
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "contributors_enabled": false,
+                "default_profile_image": false,
+                "profile_sidebar_fill_color": "D1D1D1",
+                "time_zone": null,
+                "name": "The Hindu",
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 5994,
+                "screen_name": "the_hindu",
+                "followers_count": 5739318,
+                "favourites_count": 141,
+                "id_str": "20751449",
+                "friends_count": 200,
+                "geo_enabled": true,
+                "profile_background_tile": false,
+                "profile_link_color": "008A96",
+                "following": null,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "location": "Chennai, India",
+                "profile_sidebar_border_color": "000000",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061900452311121920/jo7qrMTA_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/20751449/1577620205",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1061900452311121920/jo7qrMTA_normal.jpg",
+                "notifications": null,
+                "verified": true,
+                "created_at": "Fri Feb 13 06:04:24 +0000 2009",
+                "utc_offset": null
+              },
+              "text": "Congestion at India’s top four airports Delhi, Mumbai, Bengaluru and Hyderabad will continue in the medium term as… https://t.co/1Q1Ccow7iq",
+              "possibly_sensitive": false,
+              "favorite_count": 5,
+              "lang": "en",
+              "id_str": "1226309782522474496",
+              "reply_count": 0,
+              "in_reply_to_status_id_str": null,
+              "retweet_count": 1,
+              "extended_tweet": { - 
+                "full_text": "Congestion at India’s top four airports Delhi, Mumbai, Bengaluru and Hyderabad will continue in the medium term as the number of air passengers has seen a rise despite the slowdown in the economy and closure of #JetAirways, #Crisil Ratings said. \nhttps://t.co/3xAodoCrrX",
+                "display_text_range": [ - 
+                  0,
+                  270
+                ],
+                "entities": { - 
+                  "symbols": [ - 
+
+                  ],
+                  "hashtags": [ - 
+                    { - 
+                      "indices": [ - 
+                        211,
+                        222
+                      ],
+                      "text": "JetAirways"
+                    },
+                    { - 
+                      "indices": [ - 
+                        224,
+                        231
+                      ],
+                      "text": "Crisil"
+                    }
+                  ],
+                  "urls": [ - 
+                    { - 
+                      "display_url": "trib.al/0ZJTtDM",
+                      "url": "https://t.co/3xAodoCrrX",
+                      "expanded_url": "https://trib.al/0ZJTtDM",
+                      "indices": [ - 
+                        247,
+                        270
+                      ]
+                    }
+                  ],
+                  "user_mentions": [ - 
+
+                  ]
+                }
+              },
+              "is_quote_status": false,
+              "favorited": false,
+              "created_at": "Sun Feb 09 01:00:10 +0000 2020",
+              "in_reply_to_user_id": null,
+              "entities": { - 
+                "symbols": [ - 
+
+                ],
+                "hashtags": [ - 
+
+                ],
+                "urls": [ - 
+                  { - 
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "url": "https://t.co/1Q1Ccow7iq",
+                    "expanded_url": "https://twitter.com/i/web/status/1226309782522474496",
+                    "indices": [ - 
+                      116,
+                      139
+                    ]
+                  }
+                ],
+                "user_mentions": [ - 
+
+                ]
+              }
+            },
+            "user": { - 
+              "id": 96270263,
+              "translator_type": "none",
+              "profile_background_color": "FFF04D",
+              "protected": false,
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+              "url": "https://indiapoliticalleague.wordpress.com/",
+              "default_profile": false,
+              "description": "LAWYER. NAGPUR. Political analyst. STATE LEVEL FACILITATOR @JAWAHARLAL NEHRU LEADERSHIP INSTITUTE. NEW DELHI.",
+              "statuses_count": 31238,
+              "follow_request_sent": null,
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "contributors_enabled": false,
+              "default_profile_image": false,
+              "profile_sidebar_fill_color": "F6FFD1",
+              "time_zone": null,
+              "name": "Rajiv Pande",
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 18,
+              "screen_name": "RAJEEVPANDE2405",
+              "followers_count": 493,
+              "favourites_count": 6931,
+              "id_str": "96270263",
+              "friends_count": 253,
+              "geo_enabled": true,
+              "profile_background_tile": false,
+              "profile_link_color": "0099CC",
+              "following": null,
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+              "location": "Nagpur",
+              "profile_sidebar_border_color": "FFF8AD",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107465327754006528/pan4HQac_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/96270263/1490282943",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1107465327754006528/pan4HQac_normal.jpg",
+              "notifications": null,
+              "verified": false,
+              "created_at": "Sat Dec 12 03:55:49 +0000 2009",
+              "utc_offset": null
+            },
+            "quote_count": 0,
+            "text": "RT @the_hindu: Congestion at India’s top four airports Delhi, Mumbai, Bengaluru and Hyderabad will continue in the medium term as the numbe…",
+            "favorite_count": 0,
+            "lang": "en",
+            "id_str": "1226310816330326018",
+            "reply_count": 0,
+            "in_reply_to_status_id_str": null,
+            "retweet_count": 0,
+            "is_quote_status": false,
+            "favorited": false,
+            "created_at": "Sun Feb 09 01:04:17 +0000 2020",
+            "in_reply_to_user_id": null,
+            "entities": { - 
+              "symbols": [ - 
+
+              ],
+              "hashtags": [ - 
+
+              ],
+              "urls": [ - 
+
+              ],
+              "user_mentions": [ - 
+                { - 
+                  "id": 20751449,
+                  "indices": [ - 
+                    3,
+                    13
+                  ],
+                  "screen_name": "the_hindu",
+                  "name": "The Hindu",
+                  "id_str": "20751449"
+                }
+              ]
+            }
+          }
+        }
+      },
+      { - 
+        "_index": "topcincotwitteros",
+        "_type": "_doc",
+        "_id": "aXegOXABny8mSGyfUj7Z",
+        "_score": 1,
+        "_source": { - 
+          "doc_as_upsert": true,
+          "@timestamp": "2020-02-12T13:39:31.184Z",
+          "@version": "1",
+          "doc": { - 
+            "id": 1226322833506230300,
+            "retweeted": false,
+            "timestamp_ms": "1581213122141",
+            "in_reply_to_user_id_str": "846923375209594880",
+            "display_text_range": [ - 
+              12,
+              48
+            ],
+            "coordinates": null,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1226249089643417600,
+            "contributors": null,
+            "filter_level": "low",
+            "geo": null,
+            "place": null,
+            "truncated": false,
+            "in_reply_to_screen_name": "MCU_Direct",
+            "quote_count": 0,
+            "user": { - 
+              "id": 822706978237677600,
+              "translator_type": "none",
+              "profile_background_color": "F5F8FA",
+              "protected": false,
+              "profile_background_image_url_https": "",
+              "url": null,
+              "default_profile": true,
+              "description": "Jedi Master, Avenger, Super-Friend, Dream Warrior, Hulkamaniac. Co-creator @RealRearrangers, Co-CEO @HeatherBrosProd. #GenitalManager of #BallsDeep2020",
+              "statuses_count": 8190,
+              "follow_request_sent": null,
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "contributors_enabled": false,
+              "default_profile_image": false,
+              "profile_sidebar_fill_color": "DDEEF6",
+              "time_zone": null,
+              "name": "El Maximo™️",
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 0,
+              "screen_name": "RealElMaximo",
+              "followers_count": 352,
+              "favourites_count": 27409,
+              "id_str": "822706978237677570",
+              "friends_count": 753,
+              "geo_enabled": false,
+              "profile_background_tile": false,
+              "profile_link_color": "1DA1F2",
+              "following": null,
+              "profile_background_image_url": "",
+              "location": "Downers Grove, IL",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1210381654751154176/6nrCRvIX_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/822706978237677570/1575784463",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1210381654751154176/6nrCRvIX_normal.jpg",
+              "notifications": null,
+              "verified": false,
+              "created_at": "Sat Jan 21 07:26:43 +0000 2017",
+              "utc_offset": null
+            },
+            "text": "@MCU_Direct Fingers crossed for a high-top fade.",
+            "favorite_count": 0,
+            "lang": "en",
+            "id_str": "1226322833506230272",
+            "reply_count": 0,
+            "in_reply_to_status_id_str": "1226249089643417600",
+            "retweet_count": 0,
+            "is_quote_status": false,
+            "favorited": false,
+            "created_at": "Sun Feb 09 01:52:02 +0000 2020",
+            "in_reply_to_user_id": 846923375209594900,
+            "entities": { - 
+              "symbols": [ - 
+
+              ],
+              "hashtags": [ - 
+
+              ],
+              "urls": [ - 
+
+              ],
+              "user_mentions": [ - 
+                { - 
+                  "id": 846923375209594900,
+                  "indices": [ - 
+                    0,
+                    11
+                  ],
+                  "screen_name": "MCU_Direct",
+                  "name": "MCU Direct",
+                  "id_str": "846923375209594880"
+                }
+              ]
+            }
+          }
+        }
+      },
+      { - 
+        "_index": "topcincotwitteros",
+        "_type": "_doc",
+        "_id": "a3egOXABny8mSGyfUj7Z",
+        "_score": 1,
+        "_source": { - 
+          "doc_as_upsert": true,
+          "@timestamp": "2020-02-12T13:39:31.318Z",
+          "@version": "1",
+          "doc": { - 
+            "id": 1226323135630278700,
+            "retweeted": false,
+            "timestamp_ms": "1581213194173",
+            "in_reply_to_user_id_str": "194990300",
+            "coordinates": null,
+            "contributors": null,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "filter_level": "low",
+            "geo": null,
+            "place": null,
+            "truncated": false,
+            "in_reply_to_screen_name": "the3rdchamber",
+            "quote_count": 0,
+            "user": { - 
+              "id": 750438791500984300,
+              "translator_type": "none",
+              "profile_background_color": "F5F8FA",
+              "protected": false,
+              "profile_background_image_url_https": "",
+              "url": null,
+              "default_profile": true,
+              "description": "A dollar in a world full of quarters",
+              "statuses_count": 2299,
+              "follow_request_sent": null,
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "contributors_enabled": false,
+              "default_profile_image": false,
+              "profile_sidebar_fill_color": "DDEEF6",
+              "time_zone": null,
+              "name": "Jawn Mayer",
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 0,
+              "screen_name": "CGonatas",
+              "followers_count": 97,
+              "favourites_count": 3173,
+              "id_str": "750438791500984320",
+              "friends_count": 116,
+              "geo_enabled": true,
+              "profile_background_tile": false,
+              "profile_link_color": "1DA1F2",
+              "following": null,
+              "profile_background_image_url": "",
+              "location": "The YO",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152024162543853568/PUdzgQRL_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/750438791500984320/1567300341",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1152024162543853568/PUdzgQRL_normal.jpg",
+              "notifications": null,
+              "verified": false,
+              "created_at": "Tue Jul 05 21:18:45 +0000 2016",
+              "utc_offset": null
+            },
+            "text": "@the3rdchamber on top of this game, my mom just called UNC “Durham” and Justin proceeded to say “go Duke!” I’m actually sick",
+            "favorite_count": 0,
+            "lang": "en",
+            "id_str": "1226323135630278657",
+            "reply_count": 0,
+            "in_reply_to_status_id_str": null,
+            "retweet_count": 0,
+            "is_quote_status": false,
+            "favorited": false,
+            "created_at": "Sun Feb 09 01:53:14 +0000 2020",
+            "in_reply_to_user_id": 194990300,
+            "entities": { - 
+              "symbols": [ - 
+
+              ],
+              "hashtags": [ - 
+
+              ],
+              "urls": [ - 
+
+              ],
+              "user_mentions": [ - 
+                { - 
+                  "id": 194990300,
+                  "indices": [ - 
+                    0,
+                    14
+                  ],
+                  "screen_name": "the3rdchamber",
+                  "name": "JR Shipley",
+                  "id_str": "194990300"
+                }
+              ]
+            }
+          }
+        }
+      },
+      { - 
+        "_index": "topcincotwitteros",
+        "_type": "_doc",
+        "_id": "bHegOXABny8mSGyfUj7Z",
+        "_score": 1,
+        "_source": { - 
+          "doc_as_upsert": true,
+          "@timestamp": "2020-02-12T13:39:31.324Z",
+          "@version": "1",
+          "doc": { - 
+            "id": 1226323135965868000,
+            "retweeted": false,
+            "timestamp_ms": "1581213194253",
+            "in_reply_to_user_id_str": "857932719359229952",
+            "display_text_range": [ - 
+              14,
+              83
+            ],
+            "coordinates": null,
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1226321799958466600,
+            "contributors": null,
+            "filter_level": "low",
+            "geo": null,
+            "place": null,
+            "truncated": false,
+            "in_reply_to_screen_name": "TimPowers213",
+            "quote_count": 0,
+            "user": { - 
+              "id": 1008517648232181800,
+              "translator_type": "none",
+              "profile_background_color": "F5F8FA",
+              "protected": false,
+              "profile_background_image_url_https": "",
+              "url": "http://eliud.xyz",
+              "default_profile": true,
+              "description": "Random pictures that I take, from HotWheels to nature and landscapes. My main camera is a Sony A7R III and the Samsung Galaxy S10+ is my secondary camera.",
+              "statuses_count": 1069,
+              "follow_request_sent": null,
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "contributors_enabled": false,
+              "default_profile_image": false,
+              "profile_sidebar_fill_color": "DDEEF6",
+              "time_zone": null,
+              "name": "Eliud",
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 1,
+              "screen_name": "eliud_xyz",
+              "followers_count": 22,
+              "favourites_count": 392,
+              "id_str": "1008517648232181765",
+              "friends_count": 142,
+              "geo_enabled": true,
+              "profile_background_tile": false,
+              "profile_link_color": "1DA1F2",
+              "following": null,
+              "profile_background_image_url": "",
+              "location": "Texas",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1215111547695124487/-GFZMoYh_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008517648232181765/1569032530",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1215111547695124487/-GFZMoYh_normal.jpg",
+              "notifications": null,
+              "verified": false,
+              "created_at": "Mon Jun 18 01:11:59 +0000 2018",
+              "utc_offset": null
+            },
+            "text": "@TimPowers213 Lol, at least with this I'm able to park it on top of his car hahaha.",
+            "favorite_count": 0,
+            "lang": "en",
+            "id_str": "1226323135965868033",
+            "reply_count": 0,
+            "in_reply_to_status_id_str": "1226321799958466561",
+            "retweet_count": 0,
+            "is_quote_status": false,
+            "favorited": false,
+            "created_at": "Sun Feb 09 01:53:14 +0000 2020",
+            "in_reply_to_user_id": 857932719359230000,
+            "entities": { - 
+              "symbols": [ - 
+
+              ],
+              "hashtags": [ - 
+
+              ],
+              "urls": [ - 
+
+              ],
+              "user_mentions": [ - 
+                { - 
+                  "id": 857932719359230000,
+                  "indices": [ - 
+                    0,
+                    13
+                  ],
+                  "screen_name": "TimPowers213",
+                  "name": "Tim Powers",
+                  "id_str": "857932719359229952"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

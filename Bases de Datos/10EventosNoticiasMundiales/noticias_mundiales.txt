@@ -1,0 +1,2444 @@
+﻿{ - 
+  "took": 124,
+  "timed_out": false,
+  "_shards": { - 
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": { - 
+    "total": { - 
+      "value": 10000,
+      "relation": "gte"
+    },
+    "max_score": 1,
+    "hits": [ - 
+      { - 
+        "_index": "noticias_mundiales",
+        "_type": "_doc",
+        "_id": "g3ZVOXABny8mSGyfrwX_",
+        "_score": 1,
+        "_source": { - 
+          "@timestamp": "2020-02-12T12:17:34.629Z",
+          "@version": "1",
+          "doc_as_upsert": true,
+          "doc": { - 
+            "retweeted_status": { - 
+              "coordinates": null,
+              "quoted_status_id": 1226545782809145300,
+              "favorite_count": 898,
+              "quoted_status_permalink": { - 
+                "display": "twitter.com/IvanDuque/stat…",
+                "url": "https://t.co/ibcMtBwFpW",
+                "expanded": "https://twitter.com/IvanDuque/status/1226545782809145349"
+              },
+              "entities": { - 
+                "symbols": [ - 
+
+                ],
+                "hashtags": [ - 
+
+                ],
+                "urls": [ - 
+                  { - 
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [ - 
+                      117,
+                      140
+                    ],
+                    "url": "https://t.co/kWXIKXqK8t",
+                    "expanded_url": "https://twitter.com/i/web/status/1226555893778731010"
+                  }
+                ],
+                "user_mentions": [ - 
+
+                ]
+              },
+              "created_at": "Sun Feb 09 17:18:08 +0000 2020",
+              "id_str": "1226555893778731010",
+              "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+              "id": 1226555893778731000,
+              "in_reply_to_status_id_str": null,
+              "favorited": false,
+              "quoted_status": { - 
+                "coordinates": null,
+                "favorite_count": 662,
+                "entities": { - 
+                  "symbols": [ - 
+
+                  ],
+                  "hashtags": [ - 
+                    { - 
+                      "indices": [ - 
+                        42,
+                        59
+                      ],
+                      "text": "DíaDelPeriodista"
+                    }
+                  ],
+                  "urls": [ - 
+                    { - 
+                      "display_url": "twitter.com/i/web/status/1…",
+                      "indices": [ - 
+                        117,
+                        140
+                      ],
+                      "url": "https://t.co/QKIdf4qYss",
+                      "expanded_url": "https://twitter.com/i/web/status/1226545782809145349"
+                    }
+                  ],
+                  "user_mentions": [ - 
+
+                  ]
+                },
+                "created_at": "Sun Feb 09 16:37:57 +0000 2020",
+                "id_str": "1226545782809145349",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "id": 1226545782809145300,
+                "in_reply_to_status_id_str": null,
+                "favorited": false,
+                "contributors": null,
+                "text": "Hoy se celebra una fecha muy especial: el #DíaDelPeriodista. Quiero felicitarlos por esa importante labor, vital pa… https://t.co/QKIdf4qYss",
+                "quote_count": 105,
+                "lang": "es",
+                "truncated": true,
+                "retweeted": false,
+                "place": null,
+                "in_reply_to_user_id_str": null,
+                "extended_tweet": { - 
+                  "entities": { - 
+                    "symbols": [ - 
+
+                    ],
+                    "hashtags": [ - 
+                      { - 
+                        "indices": [ - 
+                          42,
+                          59
+                        ],
+                        "text": "DíaDelPeriodista"
+                      }
+                    ],
+                    "urls": [ - 
+
+                    ],
+                    "user_mentions": [ - 
+
+                    ]
+                  },
+                  "display_text_range": [ - 
+                    0,
+                    269
+                  ],
+                  "full_text": "Hoy se celebra una fecha muy especial: el #DíaDelPeriodista. Quiero felicitarlos por esa importante labor, vital para la democracia, porque ustedes cumplen la función de informar y formar opinión. Nuestra admiración y cariño a quienes desempeñan esta hermosa profesión."
+                },
+                "reply_count": 345,
+                "user": { - 
+                  "follow_request_sent": null,
+                  "verified": true,
+                  "protected": false,
+                  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                  "translator_type": "none",
+                  "created_at": "Sun Sep 27 03:53:46 +0000 2009",
+                  "id_str": "77653794",
+                  "favourites_count": 633,
+                  "is_translator": false,
+                  "id": 77653794,
+                  "statuses_count": 27248,
+                  "profile_background_color": "C0DEED",
+                  "profile_background_tile": false,
+                  "profile_link_color": "1DA1F2",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1065386290294734848/z4RI2Frt_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/77653794/1576361075",
+                  "default_profile": true,
+                  "following": null,
+                  "screen_name": "IvanDuque",
+                  "profile_use_background_image": true,
+                  "geo_enabled": true,
+                  "url": "http://id.presidencia.gov.co",
+                  "description": "Presidente de la República de Colombia 🇨🇴 2018-2022. Legalidad, Emprendimiento y Equidad. #ElFuturoEsDeTodos",
+                  "profile_sidebar_border_color": "C0DEED",
+                  "profile_sidebar_fill_color": "DDEEF6",
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1065386290294734848/z4RI2Frt_normal.jpg",
+                  "followers_count": 1147676,
+                  "contributors_enabled": false,
+                  "profile_text_color": "333333",
+                  "notifications": null,
+                  "lang": null,
+                  "listed_count": 1664,
+                  "friends_count": 2268,
+                  "utc_offset": null,
+                  "name": "Iván Duque",
+                  "time_zone": null,
+                  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                  "location": null,
+                  "default_profile_image": false
+                },
+                "is_quote_status": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_user_id": null,
+                "filter_level": "low",
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "retweet_count": 185
+              },
+              "contributors": null,
+              "text": "Cuál día del periodista si su Gobierno premia la censura. Si en los viajes presidenciales, que se pagan con impuest… https://t.co/kWXIKXqK8t",
+              "quote_count": 8,
+              "lang": "es",
+              "truncated": true,
+              "retweeted": false,
+              "place": null,
+              "in_reply_to_user_id_str": null,
+              "extended_tweet": { - 
+                "entities": { - 
+                  "symbols": [ - 
+
+                  ],
+                  "hashtags": [ - 
+
+                  ],
+                  "urls": [ - 
+
+                  ],
+                  "user_mentions": [ - 
+
+                  ]
+                },
+                "display_text_range": [ - 
+                  0,
+                  167
+                ],
+                "full_text": "Cuál día del periodista si su Gobierno premia la censura. Si en los viajes presidenciales, que se pagan con impuestos, no lleva a Noticias Uno. Qué día del periodista."
+              },
+              "reply_count": 17,
+              "user": { - 
+                "follow_request_sent": null,
+                "verified": false,
+                "protected": false,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                "translator_type": "none",
+                "created_at": "Mon Nov 30 06:09:30 +0000 2009",
+                "id_str": "93573457",
+                "favourites_count": 44029,
+                "is_translator": false,
+                "id": 93573457,
+                "statuses_count": 20997,
+                "profile_background_color": "ACDED6",
+                "profile_background_tile": true,
+                "profile_link_color": "3B94D9",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225620600099606528/DK1EPnon_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/93573457/1576724368",
+                "default_profile": false,
+                "following": null,
+                "screen_name": "Julianaramirez6",
+                "profile_use_background_image": true,
+                "geo_enabled": true,
+                "url": null,
+                "description": "Caleña, imprudencer y reportera.\nPremio Nal de Periodismo CPB 2017- Premio Simón Bolívar 2019. \n(Opiniones personales) \n\n julianaramirezprado@gmail.com",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "F6F6F6",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1225620600099606528/DK1EPnon_normal.jpg",
+                "followers_count": 30999,
+                "contributors_enabled": false,
+                "profile_text_color": "333333",
+                "notifications": null,
+                "lang": null,
+                "listed_count": 108,
+                "friends_count": 2083,
+                "utc_offset": null,
+                "name": "Juliana Ramírez Prado",
+                "time_zone": null,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                "location": null,
+                "default_profile_image": false
+              },
+              "quoted_status_id_str": "1226545782809145349",
+              "is_quote_status": true,
+              "in_reply_to_status_id": null,
+              "in_reply_to_user_id": null,
+              "filter_level": "low",
+              "in_reply_to_screen_name": null,
+              "geo": null,
+              "retweet_count": 332
+            },
+            "coordinates": null,
+            "quoted_status_id": 1226545782809145300,
+            "timestamp_ms": "1581278901856",
+            "favorite_count": 0,
+            "quoted_status_permalink": { - 
+              "display": "twitter.com/IvanDuque/stat…",
+              "url": "https://t.co/ibcMtBwFpW",
+              "expanded": "https://twitter.com/IvanDuque/status/1226545782809145349"
+            },
+            "entities": { - 
+              "symbols": [ - 
+
+              ],
+              "hashtags": [ - 
+
+              ],
+              "urls": [ - 
+
+              ],
+              "user_mentions": [ - 
+                { - 
+                  "screen_name": "Julianaramirez6",
+                  "indices": [ - 
+                    3,
+                    19
+                  ],
+                  "id_str": "93573457",
+                  "name": "Juliana Ramírez Prado",
+                  "id": 93573457
+                }
+              ]
+            },
+            "created_at": "Sun Feb 09 20:08:21 +0000 2020",
+            "id_str": "1226598733628006402",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "id": 1226598733628006400,
+            "in_reply_to_status_id_str": null,
+            "favorited": false,
+            "quoted_status": { - 
+              "coordinates": null,
+              "favorite_count": 662,
+              "entities": { - 
+                "symbols": [ - 
+
+                ],
+                "hashtags": [ - 
+                  { - 
+                    "indices": [ - 
+                      42,
+                      59
+                    ],
+                    "text": "DíaDelPeriodista"
+                  }
+                ],
+                "urls": [ - 
+                  { - 
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [ - 
+                      117,
+                      140
+                    ],
+                    "url": "https://t.co/QKIdf4qYss",
+                    "expanded_url": "https://twitter.com/i/web/status/1226545782809145349"
+                  }
+                ],
+                "user_mentions": [ - 
+
+                ]
+              },
+              "created_at": "Sun Feb 09 16:37:57 +0000 2020",
+              "id_str": "1226545782809145349",
+              "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+              "id": 1226545782809145300,
+              "in_reply_to_status_id_str": null,
+              "favorited": false,
+              "contributors": null,
+              "text": "Hoy se celebra una fecha muy especial: el #DíaDelPeriodista. Quiero felicitarlos por esa importante labor, vital pa… https://t.co/QKIdf4qYss",
+              "quote_count": 105,
+              "lang": "es",
+              "truncated": true,
+              "retweeted": false,
+              "place": null,
+              "in_reply_to_user_id_str": null,
+              "extended_tweet": { - 
+                "entities": { - 
+                  "symbols": [ - 
+
+                  ],
+                  "hashtags": [ - 
+                    { - 
+                      "indices": [ - 
+                        42,
+                        59
+                      ],
+                      "text": "DíaDelPeriodista"
+                    }
+                  ],
+                  "urls": [ - 
+
+                  ],
+                  "user_mentions": [ - 
+
+                  ]
+                },
+                "display_text_range": [ - 
+                  0,
+                  269
+                ],
+                "full_text": "Hoy se celebra una fecha muy especial: el #DíaDelPeriodista. Quiero felicitarlos por esa importante labor, vital para la democracia, porque ustedes cumplen la función de informar y formar opinión. Nuestra admiración y cariño a quienes desempeñan esta hermosa profesión."
+              },
+              "reply_count": 345,
+              "user": { - 
+                "follow_request_sent": null,
+                "verified": true,
+                "protected": false,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "translator_type": "none",
+                "created_at": "Sun Sep 27 03:53:46 +0000 2009",
+                "id_str": "77653794",
+                "favourites_count": 633,
+                "is_translator": false,
+                "id": 77653794,
+                "statuses_count": 27248,
+                "profile_background_color": "C0DEED",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1065386290294734848/z4RI2Frt_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/77653794/1576361075",
+                "default_profile": true,
+                "following": null,
+                "screen_name": "IvanDuque",
+                "profile_use_background_image": true,
+                "geo_enabled": true,
+                "url": "http://id.presidencia.gov.co",
+                "description": "Presidente de la República de Colombia 🇨🇴 2018-2022. Legalidad, Emprendimiento y Equidad. #ElFuturoEsDeTodos",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1065386290294734848/z4RI2Frt_normal.jpg",
+                "followers_count": 1147676,
+                "contributors_enabled": false,
+                "profile_text_color": "333333",
+                "notifications": null,
+                "lang": null,
+                "listed_count": 1664,
+                "friends_count": 2268,
+                "utc_offset": null,
+                "name": "Iván Duque",
+                "time_zone": null,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "location": null,
+                "default_profile_image": false
+              },
+              "is_quote_status": false,
+              "in_reply_to_status_id": null,
+              "in_reply_to_user_id": null,
+              "filter_level": "low",
+              "in_reply_to_screen_name": null,
+              "geo": null,
+              "retweet_count": 185
+            },
+            "contributors": null,
+            "text": "RT @Julianaramirez6: Cuál día del periodista si su Gobierno premia la censura. Si en los viajes presidenciales, que se pagan con impuestos,…",
+            "quote_count": 0,
+            "lang": "es",
+            "truncated": false,
+            "retweeted": false,
+            "place": null,
+            "in_reply_to_user_id_str": null,
+            "reply_count": 0,
+            "user": { - 
+              "follow_request_sent": null,
+              "verified": false,
+              "protected": false,
+              "profile_background_image_url": "",
+              "translator_type": "none",
+              "created_at": "Fri Apr 13 21:22:52 +0000 2018",
+              "id_str": "984904776499585024",
+              "favourites_count": 5422,
+              "is_translator": false,
+              "id": 984904776499585000,
+              "statuses_count": 2573,
+              "profile_background_color": "F5F8FA",
+              "profile_background_tile": false,
+              "profile_link_color": "1DA1F2",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1210724119051829255/GyxqG4og_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/984904776499585024/1569789632",
+              "default_profile": true,
+              "following": null,
+              "screen_name": "Epatrinondas",
+              "profile_use_background_image": true,
+              "geo_enabled": false,
+              "url": null,
+              "description": "🤠 Me saludas campesino a la familia\nY a todos en la vereda por favor\nY les dices que en mi libro de\nrecuerdos Cada uno me ha dejado su renglón... 🙂",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1210724119051829255/GyxqG4og_normal.jpg",
+              "followers_count": 291,
+              "contributors_enabled": false,
+              "profile_text_color": "333333",
+              "notifications": null,
+              "lang": null,
+              "listed_count": 1,
+              "friends_count": 597,
+              "utc_offset": null,
+              "name": "Negro de clima frío 👦🏾",
+              "time_zone": null,
+              "profile_background_image_url_https": "",
+              "location": "Colombia",
+              "default_profile_image": false
+            },
+            "quoted_status_id_str": "1226545782809145349",
+            "is_quote_status": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_user_id": null,
+            "filter_level": "low",
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "retweet_count": 0
+          }
+        }
+      },
+      { - 
+        "_index": "noticias_mundiales",
+        "_type": "_doc",
+        "_id": "hHZVOXABny8mSGyfrwX_",
+        "_score": 1,
+        "_source": { - 
+          "@timestamp": "2020-02-12T12:17:34.637Z",
+          "@version": "1",
+          "doc_as_upsert": true,
+          "doc": { - 
+            "retweeted_status": { - 
+              "coordinates": null,
+              "favorite_count": 145,
+              "entities": { - 
+                "symbols": [ - 
+
+                ],
+                "hashtags": [ - 
+
+                ],
+                "urls": [ - 
+                  { - 
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [ - 
+                      117,
+                      140
+                    ],
+                    "url": "https://t.co/XkW87YHxMY",
+                    "expanded_url": "https://twitter.com/i/web/status/1226505707861762048"
+                  }
+                ],
+                "user_mentions": [ - 
+
+                ]
+              },
+              "created_at": "Sun Feb 09 13:58:42 +0000 2020",
+              "id_str": "1226505707861762048",
+              "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+              "id": 1226505707861762000,
+              "in_reply_to_status_id_str": null,
+              "possibly_sensitive": false,
+              "favorited": false,
+              "contributors": null,
+              "text": "\"Atormentados pela morte de colegas e perseguidos nas quadrilhas, decidiram revelar, em detalhes, o funcionamento d… https://t.co/XkW87YHxMY",
+              "quote_count": 0,
+              "lang": "pt",
+              "truncated": true,
+              "retweeted": false,
+              "place": null,
+              "in_reply_to_user_id_str": null,
+              "extended_tweet": { - 
+                "entities": { - 
+                  "symbols": [ - 
+
+                  ],
+                  "hashtags": [ - 
+
+                  ],
+                  "urls": [ - 
+                    { - 
+                      "display_url": "noticias.uol.com.br/reportagens-es…",
+                      "indices": [ - 
+                        174,
+                        197
+                      ],
+                      "url": "https://t.co/W53EcTh3gL",
+                      "expanded_url": "https://noticias.uol.com.br/reportagens-especiais/ex-milicianos-viram-testemunhas-da-justica-e-acabam-assassinatos-de-maneira-brutal/index.htm"
+                    }
+                  ],
+                  "user_mentions": [ - 
+
+                  ]
+                },
+                "display_text_range": [ - 
+                  0,
+                  197
+                ],
+                "full_text": "\"Atormentados pela morte de colegas e perseguidos nas quadrilhas, decidiram revelar, em detalhes, o funcionamento de um grupo infiltrado na polícia e até na política local.\"\nhttps://t.co/W53EcTh3gL"
+              },
+              "reply_count": 1,
+              "user": { - 
+                "follow_request_sent": null,
+                "verified": false,
+                "protected": false,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "translator_type": "none",
+                "created_at": "Sun Mar 23 20:06:01 +0000 2008",
+                "id_str": "14203427",
+                "favourites_count": 114046,
+                "is_translator": false,
+                "id": 14203427,
+                "statuses_count": 108574,
+                "profile_background_color": "131516",
+                "profile_background_tile": true,
+                "profile_link_color": "009999",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113974279576666112/VZRXHV29_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/14203427/1563497878",
+                "default_profile": false,
+                "following": null,
+                "screen_name": "carapanarana",
+                "profile_use_background_image": true,
+                "geo_enabled": false,
+                "url": "https://ehvarzea.wordpress.com/",
+                "description": "cronista do Armagedom",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1113974279576666112/VZRXHV29_normal.png",
+                "followers_count": 56122,
+                "contributors_enabled": false,
+                "profile_text_color": "333333",
+                "notifications": null,
+                "lang": null,
+                "listed_count": 296,
+                "friends_count": 1972,
+                "utc_offset": null,
+                "name": "Carapanã",
+                "time_zone": null,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "location": null,
+                "default_profile_image": false
+              },
+              "is_quote_status": false,
+              "in_reply_to_status_id": null,
+              "in_reply_to_user_id": null,
+              "filter_level": "low",
+              "in_reply_to_screen_name": null,
+              "geo": null,
+              "retweet_count": 55
+            },
+            "coordinates": null,
+            "timestamp_ms": "1581278905678",
+            "favorite_count": 0,
+            "entities": { - 
+              "symbols": [ - 
+
+              ],
+              "hashtags": [ - 
+
+              ],
+              "urls": [ - 
+
+              ],
+              "user_mentions": [ - 
+                { - 
+                  "screen_name": "carapanarana",
+                  "indices": [ - 
+                    3,
+                    16
+                  ],
+                  "id_str": "14203427",
+                  "name": "Carapanã",
+                  "id": 14203427
+                }
+              ]
+            },
+            "created_at": "Sun Feb 09 20:08:25 +0000 2020",
+            "id_str": "1226598749658636289",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "id": 1226598749658636300,
+            "in_reply_to_status_id_str": null,
+            "favorited": false,
+            "contributors": null,
+            "text": "RT @carapanarana: \"Atormentados pela morte de colegas e perseguidos nas quadrilhas, decidiram revelar, em detalhes, o funcionamento de um g…",
+            "quote_count": 0,
+            "lang": "pt",
+            "truncated": false,
+            "retweeted": false,
+            "place": null,
+            "in_reply_to_user_id_str": null,
+            "reply_count": 0,
+            "user": { - 
+              "follow_request_sent": null,
+              "verified": false,
+              "protected": false,
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "translator_type": "none",
+              "created_at": "Mon Aug 24 16:06:17 +0000 2009",
+              "id_str": "68439810",
+              "favourites_count": 96293,
+              "is_translator": false,
+              "id": 68439810,
+              "statuses_count": 43243,
+              "profile_background_color": "C0DEED",
+              "profile_background_tile": false,
+              "profile_link_color": "1DA1F2",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/769350703332614144/vc0VcMlf_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/68439810/1384374671",
+              "default_profile": true,
+              "following": null,
+              "screen_name": "willessa",
+              "profile_use_background_image": true,
+              "geo_enabled": false,
+              "url": null,
+              "description": "Sorridente e rancoroso",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/769350703332614144/vc0VcMlf_normal.jpg",
+              "followers_count": 648,
+              "contributors_enabled": false,
+              "profile_text_color": "333333",
+              "notifications": null,
+              "lang": null,
+              "listed_count": 0,
+              "friends_count": 2484,
+              "utc_offset": null,
+              "name": "Wilfredo",
+              "time_zone": null,
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "location": "Salvador /Bahia/Brasil",
+              "default_profile_image": false
+            },
+            "is_quote_status": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_user_id": null,
+            "filter_level": "low",
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "retweet_count": 0
+          }
+        }
+      },
+      { - 
+        "_index": "noticias_mundiales",
+        "_type": "_doc",
+        "_id": "0nZXOXABny8mSGyfnwmh",
+        "_score": 1,
+        "_source": { - 
+          "@timestamp": "2020-02-12T12:17:34.409Z",
+          "@version": "1",
+          "doc_as_upsert": true,
+          "doc": { - 
+            "retweeted_status": { - 
+              "coordinates": null,
+              "favorite_count": 195,
+              "entities": { - 
+                "symbols": [ - 
+
+                ],
+                "hashtags": [ - 
+
+                ],
+                "urls": [ - 
+                  { - 
+                    "display_url": "biobiochile.cl/noticias/nacio…",
+                    "indices": [ - 
+                      95,
+                      118
+                    ],
+                    "url": "https://t.co/rnFD9CO7h9",
+                    "expanded_url": "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2020/02/09/el-audio-de-gustavo-hasbun-que-involucraria-a-ministro-de-economia-en-presuntas-coimas-en-el-mop.shtml"
+                  }
+                ],
+                "user_mentions": [ - 
+
+                ]
+              },
+              "created_at": "Sun Feb 09 16:57:13 +0000 2020",
+              "id_str": "1226550631089000450",
+              "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+              "id": 1226550631089000400,
+              "in_reply_to_status_id_str": null,
+              "possibly_sensitive": false,
+              "favorited": false,
+              "contributors": null,
+              "text": "El audio de Hasbún que podría involucrar a ministro de Economía en presuntas coimas en el MOP https://t.co/rnFD9CO7h9",
+              "quote_count": 37,
+              "lang": "es",
+              "truncated": false,
+              "retweeted": false,
+              "place": null,
+              "in_reply_to_user_id_str": null,
+              "reply_count": 34,
+              "user": { - 
+                "follow_request_sent": null,
+                "verified": false,
+                "protected": false,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "translator_type": "none",
+                "created_at": "Sun Jul 19 13:04:52 +0000 2009",
+                "id_str": "58192120",
+                "favourites_count": 27383,
+                "is_translator": false,
+                "id": 58192120,
+                "statuses_count": 335035,
+                "profile_background_color": "C0DEED",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1223571475954724864/H2MLbrOj_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/58192120/1523889246",
+                "default_profile": true,
+                "following": null,
+                "screen_name": "Censelio",
+                "profile_use_background_image": true,
+                "geo_enabled": false,
+                "url": null,
+                "description": "La Tatitudería®. Sufro de tatitud crónica y bebo té de manzanilla. Frente Revolucionario Internacional Preferimo el Otoño, FRIPO🍁🍂🍁",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1223571475954724864/H2MLbrOj_normal.png",
+                "followers_count": 36825,
+                "contributors_enabled": false,
+                "profile_text_color": "333333",
+                "notifications": null,
+                "lang": null,
+                "listed_count": 216,
+                "friends_count": 1483,
+                "utc_offset": null,
+                "name": "El Censelio",
+                "time_zone": null,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "location": null,
+                "default_profile_image": false
+              },
+              "is_quote_status": false,
+              "in_reply_to_status_id": null,
+              "in_reply_to_user_id": null,
+              "filter_level": "low",
+              "in_reply_to_screen_name": null,
+              "geo": null,
+              "retweet_count": 419
+            },
+            "coordinates": null,
+            "timestamp_ms": "1581278872930",
+            "favorite_count": 0,
+            "entities": { - 
+              "symbols": [ - 
+
+              ],
+              "hashtags": [ - 
+
+              ],
+              "urls": [ - 
+                { - 
+                  "display_url": "biobiochile.cl/noticias/nacio…",
+                  "indices": [ - 
+                    109,
+                    132
+                  ],
+                  "url": "https://t.co/rnFD9CO7h9",
+                  "expanded_url": "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2020/02/09/el-audio-de-gustavo-hasbun-que-involucraria-a-ministro-de-economia-en-presuntas-coimas-en-el-mop.shtml"
+                }
+              ],
+              "user_mentions": [ - 
+                { - 
+                  "screen_name": "Censelio",
+                  "indices": [ - 
+                    3,
+                    12
+                  ],
+                  "id_str": "58192120",
+                  "name": "El Censelio",
+                  "id": 58192120
+                }
+              ]
+            },
+            "created_at": "Sun Feb 09 20:07:52 +0000 2020",
+            "id_str": "1226598612303564800",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "id": 1226598612303564800,
+            "in_reply_to_status_id_str": null,
+            "possibly_sensitive": false,
+            "favorited": false,
+            "contributors": null,
+            "text": "RT @Censelio: El audio de Hasbún que podría involucrar a ministro de Economía en presuntas coimas en el MOP https://t.co/rnFD9CO7h9",
+            "quote_count": 0,
+            "lang": "es",
+            "truncated": false,
+            "retweeted": false,
+            "place": null,
+            "in_reply_to_user_id_str": null,
+            "reply_count": 0,
+            "user": { - 
+              "follow_request_sent": null,
+              "verified": false,
+              "protected": false,
+              "profile_background_image_url": "",
+              "translator_type": "none",
+              "created_at": "Tue Jan 28 12:46:18 +0000 2020",
+              "id_str": "1222138618715738112",
+              "favourites_count": 1548,
+              "is_translator": false,
+              "id": 1222138618715738000,
+              "statuses_count": 1717,
+              "profile_background_color": "F5F8FA",
+              "profile_background_tile": false,
+              "profile_link_color": "1DA1F2",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224893840395509763/b82JUwyR_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1222138618715738112/1580222199",
+              "default_profile": true,
+              "following": null,
+              "screen_name": "laloAlarcn2",
+              "profile_use_background_image": true,
+              "geo_enabled": false,
+              "url": null,
+              "description": "Mi abuelo era un hombre muy valiente. Si le tenía miedo a los idiotas porque como son muchos eligieron a un presidente",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1224893840395509763/b82JUwyR_normal.jpg",
+              "followers_count": 50,
+              "contributors_enabled": false,
+              "profile_text_color": "333333",
+              "notifications": null,
+              "lang": null,
+              "listed_count": 0,
+              "friends_count": 111,
+              "utc_offset": null,
+              "name": "@lalo Alarcón",
+              "time_zone": null,
+              "profile_background_image_url_https": "",
+              "location": "Osorno, Chile",
+              "default_profile_image": false
+            },
+            "is_quote_status": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_user_id": null,
+            "filter_level": "low",
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "retweet_count": 0
+          }
+        }
+      },
+      { - 
+        "_index": "noticias_mundiales",
+        "_type": "_doc",
+        "_id": "1XZXOXABny8mSGyfnwmh",
+        "_score": 1,
+        "_source": { - 
+          "@timestamp": "2020-02-12T12:17:34.440Z",
+          "@version": "1",
+          "doc_as_upsert": true,
+          "doc": { - 
+            "retweeted_status": { - 
+              "coordinates": null,
+              "favorite_count": 1105,
+              "entities": { - 
+                "symbols": [ - 
+
+                ],
+                "hashtags": [ - 
+
+                ],
+                "urls": [ - 
+                  { - 
+                    "display_url": "biobiochile.cl/noticias/nacio…",
+                    "indices": [ - 
+                      96,
+                      119
+                    ],
+                    "url": "https://t.co/QFKI0tnDDZ",
+                    "expanded_url": "https://www.biobiochile.cl/noticias/nacional/chile/2020/02/08/contraloria-revela-lapidario-informe-sobre-irregularidades-en-manejo-de-recursos-en-carabineros.shtml"
+                  }
+                ],
+                "user_mentions": [ - 
+
+                ]
+              },
+              "created_at": "Sun Feb 09 11:36:09 +0000 2020",
+              "id_str": "1226469834206121984",
+              "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+              "id": 1226469834206122000,
+              "in_reply_to_status_id_str": null,
+              "possibly_sensitive": false,
+              "favorited": false,
+              "contributors": null,
+              "text": "Contraloría revela lapidario informe sobre irregularidades en manejo de recursos en Carabineros https://t.co/QFKI0tnDDZ",
+              "quote_count": 69,
+              "lang": "es",
+              "truncated": false,
+              "retweeted": false,
+              "place": null,
+              "in_reply_to_user_id_str": null,
+              "reply_count": 48,
+              "user": { - 
+                "follow_request_sent": null,
+                "verified": false,
+                "protected": false,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "translator_type": "none",
+                "created_at": "Tue Jul 19 23:20:13 +0000 2011",
+                "id_str": "338689270",
+                "favourites_count": 24866,
+                "is_translator": false,
+                "id": 338689270,
+                "statuses_count": 15796,
+                "profile_background_color": "022330",
+                "profile_background_tile": false,
+                "profile_link_color": "0084B4",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194374522654396416/7NlffXoX_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/338689270/1559180814",
+                "default_profile": false,
+                "following": null,
+                "screen_name": "Jaime_Bassa",
+                "profile_use_background_image": true,
+                "geo_enabled": true,
+                "url": "https://open.spotify.com/artist/4uZWnKp3mTWHtL4b6SrUZE?si=_VdPQABcSQCy_T_8Kra0gA",
+                "description": "Profesor de Derecho en @UValpoChile. Director de @CEPCValpo. En @Communes_Cl y @ConstitucionRed https://uv-cl.academia.edu/JaimeBassa",
+                "profile_sidebar_border_color": "A8C7F7",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1194374522654396416/7NlffXoX_normal.jpg",
+                "followers_count": 78686,
+                "contributors_enabled": false,
+                "profile_text_color": "333333",
+                "notifications": null,
+                "lang": null,
+                "listed_count": 118,
+                "friends_count": 1145,
+                "utc_offset": null,
+                "name": "Jaime Bassa",
+                "time_zone": null,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "location": "Valparaíso, Chile.",
+                "default_profile_image": false
+              },
+              "is_quote_status": false,
+              "in_reply_to_status_id": null,
+              "in_reply_to_user_id": null,
+              "filter_level": "low",
+              "in_reply_to_screen_name": null,
+              "geo": null,
+              "retweet_count": 1329
+            },
+            "coordinates": null,
+            "timestamp_ms": "1581278927960",
+            "favorite_count": 0,
+            "entities": { - 
+              "symbols": [ - 
+
+              ],
+              "hashtags": [ - 
+
+              ],
+              "urls": [ - 
+                { - 
+                  "display_url": "biobiochile.cl/noticias/nacio…",
+                  "indices": [ - 
+                    113,
+                    136
+                  ],
+                  "url": "https://t.co/QFKI0tnDDZ",
+                  "expanded_url": "https://www.biobiochile.cl/noticias/nacional/chile/2020/02/08/contraloria-revela-lapidario-informe-sobre-irregularidades-en-manejo-de-recursos-en-carabineros.shtml"
+                }
+              ],
+              "user_mentions": [ - 
+                { - 
+                  "screen_name": "Jaime_Bassa",
+                  "indices": [ - 
+                    3,
+                    15
+                  ],
+                  "id_str": "338689270",
+                  "name": "Jaime Bassa",
+                  "id": 338689270
+                }
+              ]
+            },
+            "created_at": "Sun Feb 09 20:08:47 +0000 2020",
+            "id_str": "1226598843116072960",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "id": 1226598843116073000,
+            "in_reply_to_status_id_str": null,
+            "possibly_sensitive": false,
+            "favorited": false,
+            "contributors": null,
+            "text": "RT @Jaime_Bassa: Contraloría revela lapidario informe sobre irregularidades en manejo de recursos en Carabineros https://t.co/QFKI0tnDDZ",
+            "quote_count": 0,
+            "lang": "es",
+            "truncated": false,
+            "retweeted": false,
+            "place": null,
+            "in_reply_to_user_id_str": null,
+            "reply_count": 0,
+            "user": { - 
+              "follow_request_sent": null,
+              "verified": false,
+              "protected": false,
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+              "translator_type": "none",
+              "created_at": "Mon Oct 31 02:22:43 +0000 2011",
+              "id_str": "401778291",
+              "favourites_count": 47958,
+              "is_translator": false,
+              "id": 401778291,
+              "statuses_count": 69971,
+              "profile_background_color": "9266CC",
+              "profile_background_tile": true,
+              "profile_link_color": "9266CC",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183870666497560579/s1aTKPF__normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/401778291/1570992472",
+              "default_profile": false,
+              "following": null,
+              "screen_name": "Hpixiie",
+              "profile_use_background_image": true,
+              "geo_enabled": true,
+              "url": null,
+              "description": "Si me sigue estará expuesto a la nación de los shinos..., Thx || ELF 💙 Batman ♪comics♪manga♪Mr.Potter♪ books♪ Staff SiwonestChile ♪♪ ✰",
+              "profile_sidebar_border_color": "FFFFFF",
+              "profile_sidebar_fill_color": "7AC3EE",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1183870666497560579/s1aTKPF__normal.jpg",
+              "followers_count": 227,
+              "contributors_enabled": false,
+              "profile_text_color": "3D1957",
+              "notifications": null,
+              "lang": null,
+              "listed_count": 20,
+              "friends_count": 438,
+              "utc_offset": null,
+              "name": "call me red 🍎🇨🇱",
+              "time_zone": null,
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+              "location": "Chile",
+              "default_profile_image": false
+            },
+            "is_quote_status": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_user_id": null,
+            "filter_level": "low",
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "retweet_count": 0
+          }
+        }
+      },
+      { - 
+        "_index": "noticias_mundiales",
+        "_type": "_doc",
+        "_id": "h3ZVOXABny8mSGyfrwX_",
+        "_score": 1,
+        "_source": { - 
+          "@timestamp": "2020-02-12T12:17:34.661Z",
+          "@version": "1",
+          "doc_as_upsert": true,
+          "doc": { - 
+            "retweeted_status": { - 
+              "coordinates": null,
+              "favorite_count": 898,
+              "entities": { - 
+                "symbols": [ - 
+
+                ],
+                "hashtags": [ - 
+
+                ],
+                "urls": [ - 
+                  { - 
+                    "display_url": "economia.estadao.com.br/noticias/geral…",
+                    "indices": [ - 
+                      79,
+                      102
+                    ],
+                    "url": "https://t.co/Rpq0Vlk5CB",
+                    "expanded_url": "https://economia.estadao.com.br/noticias/geral,com-penduricalhos-65-dos-juizes-ganham-acima-do-teto-de-r-39-3-mil,70003020855"
+                  }
+                ],
+                "user_mentions": [ - 
+
+                ]
+              },
+              "created_at": "Sun Feb 09 16:24:21 +0000 2020",
+              "id_str": "1226542361964052488",
+              "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+              "id": 1226542361964052500,
+              "in_reply_to_status_id_str": null,
+              "possibly_sensitive": false,
+              "favorited": false,
+              "contributors": null,
+              "text": "Quem aplica a Lei não está acima dela, mas o Poder Judiciário discorda disso.\n\nhttps://t.co/Rpq0Vlk5CB",
+              "quote_count": 6,
+              "lang": "pt",
+              "truncated": false,
+              "retweeted": false,
+              "place": null,
+              "in_reply_to_user_id_str": null,
+              "reply_count": 21,
+              "user": { - 
+                "follow_request_sent": null,
+                "verified": true,
+                "protected": false,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "translator_type": "none",
+                "created_at": "Thu Apr 30 17:12:15 +0000 2009",
+                "id_str": "36714942",
+                "favourites_count": 10279,
+                "is_translator": false,
+                "id": 36714942,
+                "statuses_count": 16781,
+                "profile_background_color": "C0DEED",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/977904868198404096/-9eXTT27_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/36714942/1565378646",
+                "default_profile": true,
+                "following": null,
+                "screen_name": "PauloMartins10",
+                "profile_use_background_image": true,
+                "geo_enabled": true,
+                "url": "http://www.pauloeduardomartins.com.br",
+                "description": "Jornalista - Deputado Federal",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/977904868198404096/-9eXTT27_normal.jpg",
+                "followers_count": 222486,
+                "contributors_enabled": false,
+                "profile_text_color": "333333",
+                "notifications": null,
+                "lang": null,
+                "listed_count": 507,
+                "friends_count": 696,
+                "utc_offset": null,
+                "name": "Paulo Eduardo Martins",
+                "time_zone": null,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "location": "Curitiba",
+                "default_profile_image": false
+              },
+              "is_quote_status": false,
+              "in_reply_to_status_id": null,
+              "in_reply_to_user_id": null,
+              "filter_level": "low",
+              "in_reply_to_screen_name": null,
+              "geo": null,
+              "retweet_count": 189
+            },
+            "coordinates": null,
+            "timestamp_ms": "1581278884694",
+            "favorite_count": 0,
+            "entities": { - 
+              "symbols": [ - 
+
+              ],
+              "hashtags": [ - 
+
+              ],
+              "urls": [ - 
+                { - 
+                  "display_url": "economia.estadao.com.br/noticias/geral…",
+                  "indices": [ - 
+                    99,
+                    122
+                  ],
+                  "url": "https://t.co/Rpq0Vlk5CB",
+                  "expanded_url": "https://economia.estadao.com.br/noticias/geral,com-penduricalhos-65-dos-juizes-ganham-acima-do-teto-de-r-39-3-mil,70003020855"
+                }
+              ],
+              "user_mentions": [ - 
+                { - 
+                  "screen_name": "PauloMartins10",
+                  "indices": [ - 
+                    3,
+                    18
+                  ],
+                  "id_str": "36714942",
+                  "name": "Paulo Eduardo Martins",
+                  "id": 36714942
+                }
+              ]
+            },
+            "created_at": "Sun Feb 09 20:08:04 +0000 2020",
+            "id_str": "1226598661645307904",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "id": 1226598661645308000,
+            "in_reply_to_status_id_str": null,
+            "possibly_sensitive": false,
+            "favorited": false,
+            "contributors": null,
+            "text": "RT @PauloMartins10: Quem aplica a Lei não está acima dela, mas o Poder Judiciário discorda disso.\n\nhttps://t.co/Rpq0Vlk5CB",
+            "quote_count": 0,
+            "lang": "pt",
+            "truncated": false,
+            "retweeted": false,
+            "place": null,
+            "in_reply_to_user_id_str": null,
+            "reply_count": 0,
+            "user": { - 
+              "follow_request_sent": null,
+              "verified": false,
+              "protected": false,
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "translator_type": "none",
+              "created_at": "Fri Jul 10 14:20:57 +0000 2015",
+              "id_str": "3274540554",
+              "favourites_count": 2906,
+              "is_translator": false,
+              "id": 3274540554,
+              "statuses_count": 60763,
+              "profile_background_color": "C0DEED",
+              "profile_background_tile": false,
+              "profile_link_color": "1DA1F2",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081564077766385664/28e0Q3UG_normal.jpg",
+              "default_profile": true,
+              "following": null,
+              "screen_name": "CarlaSoaresdeC1",
+              "profile_use_background_image": true,
+              "geo_enabled": true,
+              "url": null,
+              "description": null,
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1081564077766385664/28e0Q3UG_normal.jpg",
+              "followers_count": 524,
+              "contributors_enabled": false,
+              "profile_text_color": "333333",
+              "notifications": null,
+              "lang": null,
+              "listed_count": 13,
+              "friends_count": 428,
+              "utc_offset": null,
+              "name": "Carla Soares de Cast",
+              "time_zone": null,
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "location": null,
+              "default_profile_image": false
+            },
+            "is_quote_status": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_user_id": null,
+            "filter_level": "low",
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "retweet_count": 0
+          }
+        }
+      },
+      { - 
+        "_index": "noticias_mundiales",
+        "_type": "_doc",
+        "_id": "2HZXOXABny8mSGyfnwmh",
+        "_score": 1,
+        "_source": { - 
+          "@timestamp": "2020-02-12T12:17:34.475Z",
+          "@version": "1",
+          "doc_as_upsert": true,
+          "doc": { - 
+            "retweeted_status": { - 
+              "coordinates": null,
+              "favorite_count": 1291,
+              "entities": { - 
+                "symbols": [ - 
+
+                ],
+                "hashtags": [ - 
+                  { - 
+                    "indices": [ - 
+                      30,
+                      43
+                    ],
+                    "text": "NicoCastillo"
+                  }
+                ],
+                "urls": [ - 
+
+                ],
+                "user_mentions": [ - 
+                  { - 
+                    "screen_name": "ClubAmerica",
+                    "indices": [ - 
+                      16,
+                      28
+                    ],
+                    "id_str": "122211977",
+                    "name": "Club América",
+                    "id": 122211977
+                  }
+                ]
+              },
+              "created_at": "Sun Feb 09 17:23:51 +0000 2020",
+              "id_str": "1226557332571795457",
+              "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+              "id": 1226557332571795500,
+              "in_reply_to_status_id_str": null,
+              "favorited": false,
+              "contributors": null,
+              "text": "Buenas noticias @ClubAmerica \n#NicoCastillo ya esta en su casa \nAnimo amigo",
+              "quote_count": 11,
+              "lang": "es",
+              "truncated": false,
+              "retweeted": false,
+              "place": { - 
+                "country_code": "MX",
+                "bounding_box": { - 
+                  "type": "Polygon",
+                  "coordinates": [ - 
+                    [ - 
+                      [ - 
+                        -99.315748,
+                        19.087511
+                      ],
+                      [ - 
+                        -99.315748,
+                        19.311459
+                      ],
+                      [ - 
+                        -99.10098,
+                        19.311459
+                      ],
+                      [ - 
+                        -99.10098,
+                        19.087511
+                      ]
+                    ]
+                  ]
+                },
+                "name": "Tlalpan",
+                "attributes": { - 
+
+                },
+                "place_type": "city",
+                "url": "https://api.twitter.com/1.1/geo/id/2a376531dff3d76a.json",
+                "full_name": "Tlalpan, Distrito Federal",
+                "country": "México",
+                "id": "2a376531dff3d76a"
+              },
+              "in_reply_to_user_id_str": null,
+              "reply_count": 28,
+              "user": { - 
+                "follow_request_sent": null,
+                "verified": true,
+                "protected": false,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "translator_type": "none",
+                "created_at": "Thu Jan 28 22:59:13 +0000 2010",
+                "id_str": "109399420",
+                "favourites_count": 20941,
+                "is_translator": false,
+                "id": 109399420,
+                "statuses_count": 63218,
+                "profile_background_color": "C0DEED",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224457651419000832/Q_h9vLAo_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/109399420/1552089325",
+                "default_profile": true,
+                "following": null,
+                "screen_name": "espnsutcliffe",
+                "profile_use_background_image": true,
+                "geo_enabled": true,
+                "url": "http://facebook.com/espnsutcliffe",
+                "description": "Reportero ESPN.. contacto sportsriso@gmail.com",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1224457651419000832/Q_h9vLAo_normal.jpg",
+                "followers_count": 849158,
+                "contributors_enabled": false,
+                "profile_text_color": "333333",
+                "notifications": null,
+                "lang": null,
+                "listed_count": 4331,
+                "friends_count": 3694,
+                "utc_offset": null,
+                "name": "John Sutcliffe",
+                "time_zone": null,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "location": "México",
+                "default_profile_image": false
+              },
+              "is_quote_status": false,
+              "in_reply_to_status_id": null,
+              "in_reply_to_user_id": null,
+              "filter_level": "low",
+              "in_reply_to_screen_name": null,
+              "geo": null,
+              "retweet_count": 86
+            },
+            "coordinates": null,
+            "timestamp_ms": "1581278861358",
+            "favorite_count": 0,
+            "entities": { - 
+              "symbols": [ - 
+
+              ],
+              "hashtags": [ - 
+                { - 
+                  "indices": [ - 
+                    49,
+                    62
+                  ],
+                  "text": "NicoCastillo"
+                }
+              ],
+              "urls": [ - 
+
+              ],
+              "user_mentions": [ - 
+                { - 
+                  "screen_name": "espnsutcliffe",
+                  "indices": [ - 
+                    3,
+                    17
+                  ],
+                  "id_str": "109399420",
+                  "name": "John Sutcliffe",
+                  "id": 109399420
+                },
+                { - 
+                  "screen_name": "ClubAmerica",
+                  "indices": [ - 
+                    35,
+                    47
+                  ],
+                  "id_str": "122211977",
+                  "name": "Club América",
+                  "id": 122211977
+                }
+              ]
+            },
+            "created_at": "Sun Feb 09 20:07:41 +0000 2020",
+            "id_str": "1226598563767050241",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "id": 1226598563767050200,
+            "in_reply_to_status_id_str": null,
+            "favorited": false,
+            "contributors": null,
+            "text": "RT @espnsutcliffe: Buenas noticias @ClubAmerica \n#NicoCastillo ya esta en su casa \nAnimo amigo",
+            "quote_count": 0,
+            "lang": "es",
+            "truncated": false,
+            "retweeted": false,
+            "place": null,
+            "in_reply_to_user_id_str": null,
+            "reply_count": 0,
+            "user": { - 
+              "follow_request_sent": null,
+              "verified": false,
+              "protected": false,
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "translator_type": "none",
+              "created_at": "Wed May 26 04:05:57 +0000 2010",
+              "id_str": "148216997",
+              "favourites_count": 2010,
+              "is_translator": false,
+              "id": 148216997,
+              "statuses_count": 45535,
+              "profile_background_color": "C0DEED",
+              "profile_background_tile": false,
+              "profile_link_color": "3B94D9",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183142224952987649/dMEpgF8G_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/148216997/1566884545",
+              "default_profile": false,
+              "following": null,
+              "screen_name": "ZAV_ALA",
+              "profile_use_background_image": true,
+              "geo_enabled": true,
+              "url": null,
+              "description": null,
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1183142224952987649/dMEpgF8G_normal.jpg",
+              "followers_count": 946,
+              "contributors_enabled": false,
+              "profile_text_color": "333333",
+              "notifications": null,
+              "lang": null,
+              "listed_count": 5,
+              "friends_count": 1403,
+              "utc_offset": null,
+              "name": "1916",
+              "time_zone": null,
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "location": "PUEBLA, PUE.",
+              "default_profile_image": false
+            },
+            "is_quote_status": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_user_id": null,
+            "filter_level": "low",
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "retweet_count": 0
+          }
+        }
+      },
+      { - 
+        "_index": "noticias_mundiales",
+        "_type": "_doc",
+        "_id": "enZXOXABny8mSGyfnwma",
+        "_score": 1,
+        "_source": { - 
+          "@timestamp": "2020-02-12T12:17:33.951Z",
+          "@version": "1",
+          "doc_as_upsert": true,
+          "doc": { - 
+            "coordinates": null,
+            "timestamp_ms": "1581278800413",
+            "favorite_count": 0,
+            "entities": { - 
+              "symbols": [ - 
+
+              ],
+              "hashtags": [ - 
+
+              ],
+              "urls": [ - 
+
+              ],
+              "user_mentions": [ - 
+
+              ]
+            },
+            "created_at": "Sun Feb 09 20:06:40 +0000 2020",
+            "id_str": "1226598308145221633",
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "id": 1226598308145221600,
+            "in_reply_to_status_id_str": null,
+            "favorited": false,
+            "contributors": null,
+            "text": "Hola Chicos.En Esta Cuenta Se Hablará De Los Partidos Del Mensajero, Noticias, Opiniones Y Fichajes, Bienvenidos! 🔴⚫😃",
+            "quote_count": 0,
+            "lang": "es",
+            "truncated": false,
+            "retweeted": false,
+            "place": null,
+            "in_reply_to_user_id_str": null,
+            "reply_count": 0,
+            "user": { - 
+              "follow_request_sent": null,
+              "verified": false,
+              "protected": false,
+              "profile_background_image_url": "",
+              "translator_type": "none",
+              "created_at": "Sun Feb 09 19:50:01 +0000 2020",
+              "id_str": "1226594047399202816",
+              "favourites_count": 0,
+              "is_translator": false,
+              "id": 1226594047399202800,
+              "statuses_count": 1,
+              "profile_background_color": "F5F8FA",
+              "profile_background_tile": false,
+              "profile_link_color": "1DA1F2",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226594875866583040/_FlRTse1_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1226594047399202816/1581278257",
+              "default_profile": true,
+              "following": null,
+              "screen_name": "InformeMensa",
+              "profile_use_background_image": true,
+              "geo_enabled": false,
+              "url": null,
+              "description": "CD Mensajero🔴⚫\n\n-En Esta Cuenta Se Hablará de Noticias, Opiniones y fichajes del CD Mensajero.\n-Si Eres del Mensa Sígueme!🔴⚫",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1226594875866583040/_FlRTse1_normal.jpg",
+              "followers_count": 0,
+              "contributors_enabled": false,
+              "profile_text_color": "333333",
+              "notifications": null,
+              "lang": null,
+              "listed_count": 0,
+              "friends_count": 1,
+              "utc_offset": null,
+              "name": "Informe Mensa",
+              "time_zone": null,
+              "profile_background_image_url_https": "",
+              "location": null,
+              "default_profile_image": false
+            },
+            "is_quote_status": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_user_id": null,
+            "filter_level": "low",
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "retweet_count": 0
+          }
+        }
+      },
+      { - 
+        "_index": "noticias_mundiales",
+        "_type": "_doc",
+        "_id": "e3ZXOXABny8mSGyfnwma",
+        "_score": 1,
+        "_source": { - 
+          "@timestamp": "2020-02-12T12:17:33.953Z",
+          "@version": "1",
+          "doc_as_upsert": true,
+          "doc": { - 
+            "retweeted_status": { - 
+              "coordinates": null,
+              "favorite_count": 10,
+              "entities": { - 
+                "symbols": [ - 
+
+                ],
+                "hashtags": [ - 
+
+                ],
+                "urls": [ - 
+                  { - 
+                    "display_url": "vertele.eldiario.es/noticias/Blas-…",
+                    "indices": [ - 
+                      78,
+                      101
+                    ],
+                    "url": "https://t.co/apwroAtl5e",
+                    "expanded_url": "http://vertele.eldiario.es/noticias/Blas-Canto-presenta-Universo-eurovision-opinion-expertos-ot-2020_0_2202379761.html?_ga=2.171450144.185623162.1581238802-546999748.1573750621"
+                  }
+                ],
+                "user_mentions": [ - 
+                  { - 
+                    "screen_name": "Vertele",
+                    "indices": [ - 
+                      105,
+                      113
+                    ],
+                    "id_str": "110942823",
+                    "name": "Vertele",
+                    "id": 110942823
+                  }
+                ]
+              },
+              "created_at": "Sun Feb 09 12:50:00 +0000 2020",
+              "id_str": "1226488416600236032",
+              "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+              "id": 1226488416600236000,
+              "in_reply_to_status_id_str": null,
+              "possibly_sensitive": false,
+              "favorited": false,
+              "contributors": null,
+              "text": "Blas Cantó presenta 'Universo' en 'OT 2020' pero... ¿qué opinan los expertos? https://t.co/apwroAtl5e En @Vertele",
+              "quote_count": 1,
+              "lang": "es",
+              "truncated": false,
+              "retweeted": false,
+              "place": null,
+              "in_reply_to_user_id_str": null,
+              "reply_count": 0,
+              "user": { - 
+                "follow_request_sent": null,
+                "verified": true,
+                "protected": false,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "translator_type": "none",
+                "created_at": "Sat Mar 24 19:08:26 +0000 2012",
+                "id_str": "535707261",
+                "favourites_count": 205,
+                "is_translator": false,
+                "id": 535707261,
+                "statuses_count": 235798,
+                "profile_background_color": "196CAE",
+                "profile_background_tile": false,
+                "profile_link_color": "0084B4",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148124170116653056/_JHLqs3Z_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/535707261/1562868173",
+                "default_profile": false,
+                "following": null,
+                "screen_name": "eldiarioes",
+                "profile_use_background_image": false,
+                "geo_enabled": false,
+                "url": "http://www.eldiario.es",
+                "description": "Periodismo a pesar de todo. Colabora: Hazte socio -- http://www.eldiario.es/socios/alta.html",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1148124170116653056/_JHLqs3Z_normal.png",
+                "followers_count": 1061451,
+                "contributors_enabled": false,
+                "profile_text_color": "333333",
+                "notifications": null,
+                "lang": null,
+                "listed_count": 11934,
+                "friends_count": 478,
+                "utc_offset": null,
+                "name": "eldiario.es",
+                "time_zone": null,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "location": null,
+                "default_profile_image": false
+              },
+              "is_quote_status": false,
+              "in_reply_to_status_id": null,
+              "in_reply_to_user_id": null,
+              "filter_level": "low",
+              "in_reply_to_screen_name": null,
+              "geo": null,
+              "retweet_count": 4
+            },
+            "coordinates": null,
+            "timestamp_ms": "1581278801860",
+            "favorite_count": 0,
+            "entities": { - 
+              "symbols": [ - 
+
+              ],
+              "hashtags": [ - 
+
+              ],
+              "urls": [ - 
+                { - 
+                  "display_url": "vertele.eldiario.es/noticias/Blas-…",
+                  "indices": [ - 
+                    94,
+                    117
+                  ],
+                  "url": "https://t.co/apwroAtl5e",
+                  "expanded_url": "http://vertele.eldiario.es/noticias/Blas-Canto-presenta-Universo-eurovision-opinion-expertos-ot-2020_0_2202379761.html?_ga=2.171450144.185623162.1581238802-546999748.1573750621"
+                }
+              ],
+              "user_mentions": [ - 
+                { - 
+                  "screen_name": "eldiarioes",
+                  "indices": [ - 
+                    3,
+                    14
+                  ],
+                  "id_str": "535707261",
+                  "name": "eldiario.es",
+                  "id": 535707261
+                },
+                { - 
+                  "screen_name": "Vertele",
+                  "indices": [ - 
+                    121,
+                    129
+                  ],
+                  "id_str": "110942823",
+                  "name": "Vertele",
+                  "id": 110942823
+                }
+              ]
+            },
+            "created_at": "Sun Feb 09 20:06:41 +0000 2020",
+            "id_str": "1226598314214350848",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "id": 1226598314214350800,
+            "in_reply_to_status_id_str": null,
+            "possibly_sensitive": false,
+            "favorited": false,
+            "contributors": null,
+            "text": "RT @eldiarioes: Blas Cantó presenta 'Universo' en 'OT 2020' pero... ¿qué opinan los expertos? https://t.co/apwroAtl5e En @Vertele",
+            "quote_count": 0,
+            "lang": "es",
+            "truncated": false,
+            "retweeted": false,
+            "place": null,
+            "in_reply_to_user_id_str": null,
+            "reply_count": 0,
+            "user": { - 
+              "follow_request_sent": null,
+              "verified": false,
+              "protected": false,
+              "profile_background_image_url": "",
+              "translator_type": "none",
+              "created_at": "Sun Jun 26 19:23:51 +0000 2016",
+              "id_str": "747148385086509056",
+              "favourites_count": 10446,
+              "is_translator": false,
+              "id": 747148385086509000,
+              "statuses_count": 6307,
+              "profile_background_color": "F5F8FA",
+              "profile_background_tile": false,
+              "profile_link_color": "1DA1F2",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224799848739811329/wdqmTOSG_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/747148385086509056/1576500816",
+              "default_profile": true,
+              "following": null,
+              "screen_name": "JordiNaranjo_",
+              "profile_use_background_image": true,
+              "geo_enabled": false,
+              "url": "http://www.instagram.com/jordi.naranjo",
+              "description": "22|💫\n#070516💓|\nBC|🌸 #ComplicaDOS \n@BlasCanto como forma de vida.✨\nInstagram: Jordi.Naranjo",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1224799848739811329/wdqmTOSG_normal.jpg",
+              "followers_count": 225,
+              "contributors_enabled": false,
+              "profile_text_color": "333333",
+              "notifications": null,
+              "lang": null,
+              "listed_count": 1,
+              "friends_count": 233,
+              "utc_offset": null,
+              "name": "𝕵𝖔𝖗𝖉𝖎 𝕹𝖆𝖗𝖆𝖓𝖏𝖔 🇪🇦🇪🇺",
+              "time_zone": null,
+              "profile_background_image_url_https": "",
+              "location": "Barcelona, España",
+              "default_profile_image": false
+            },
+            "is_quote_status": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_user_id": null,
+            "filter_level": "low",
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "retweet_count": 0
+          }
+        }
+      },
+      { - 
+        "_index": "noticias_mundiales",
+        "_type": "_doc",
+        "_id": "23ZXOXABny8mSGyfnwmh",
+        "_score": 1,
+        "_source": { - 
+          "@timestamp": "2020-02-12T12:17:34.506Z",
+          "@version": "1",
+          "doc_as_upsert": true,
+          "doc": { - 
+            "retweeted_status": { - 
+              "coordinates": null,
+              "favorite_count": 1,
+              "entities": { - 
+                "symbols": [ - 
+
+                ],
+                "hashtags": [ - 
+                  { - 
+                    "indices": [ - 
+                      0,
+                      15
+                    ],
+                    "text": "NuestroDurango"
+                  }
+                ],
+                "urls": [ - 
+                  { - 
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [ - 
+                      111,
+                      134
+                    ],
+                    "url": "https://t.co/7DvmSuOH3L",
+                    "expanded_url": "https://twitter.com/i/web/status/1226562476159971328"
+                  }
+                ],
+                "user_mentions": [ - 
+                  { - 
+                    "screen_name": "ZujeyLuna10",
+                    "indices": [ - 
+                      30,
+                      42
+                    ],
+                    "id_str": "86933249",
+                    "name": "Zujey Luna",
+                    "id": 86933249
+                  }
+                ]
+              },
+              "created_at": "Sun Feb 09 17:44:17 +0000 2020",
+              "id_str": "1226562476159971328",
+              "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+              "id": 1226562476159971300,
+              "in_reply_to_status_id_str": null,
+              "possibly_sensitive": false,
+              "favorited": false,
+              "contributors": null,
+              "text": "#NuestroDurango | Esta semana @ZujeyLuna10 presenta la historia de la plazuela de Zambrano.\n\n¿Sabes cuál es?… https://t.co/7DvmSuOH3L",
+              "display_text_range": [ - 
+                0,
+                140
+              ],
+              "quote_count": 0,
+              "lang": "es",
+              "truncated": true,
+              "retweeted": false,
+              "place": null,
+              "in_reply_to_user_id_str": null,
+              "extended_tweet": { - 
+                "entities": { - 
+                  "symbols": [ - 
+
+                  ],
+                  "hashtags": [ - 
+                    { - 
+                      "indices": [ - 
+                        0,
+                        15
+                      ],
+                      "text": "NuestroDurango"
+                    },
+                    { - 
+                      "indices": [ - 
+                        136,
+                        144
+                      ],
+                      "text": "Durango"
+                    },
+                    { - 
+                      "indices": [ - 
+                        145,
+                        154
+                      ],
+                      "text": "Noticias"
+                    },
+                    { - 
+                      "indices": [ - 
+                        155,
+                        170
+                      ],
+                      "text": "TiempoYEspacio"
+                    }
+                  ],
+                  "media": [ - 
+                    { - 
+                      "indices": [ - 
+                        171,
+                        194
+                      ],
+                      "display_url": "pic.twitter.com/ZxFKSGo7g2",
+                      "expanded_url": "https://twitter.com/canal10durango/status/1226562476159971328/photo/1",
+                      "media_url_https": "https://pbs.twimg.com/media/EQWgEW8XkAIOJKR.jpg",
+                      "type": "photo",
+                      "media_url": "http://pbs.twimg.com/media/EQWgEW8XkAIOJKR.jpg",
+                      "url": "https://t.co/ZxFKSGo7g2",
+                      "id_str": "1226562470267031554",
+                      "sizes": { - 
+                        "large": { - 
+                          "resize": "fit",
+                          "w": 1024,
+                          "h": 542
+                        },
+                        "small": { - 
+                          "resize": "fit",
+                          "w": 680,
+                          "h": 360
+                        },
+                        "medium": { - 
+                          "resize": "fit",
+                          "w": 1024,
+                          "h": 542
+                        },
+                        "thumb": { - 
+                          "resize": "crop",
+                          "w": 150,
+                          "h": 150
+                        }
+                      },
+                      "id": 1226562470267031600
+                    }
+                  ],
+                  "urls": [ - 
+                    { - 
+                      "display_url": "facebook.com/14559198847046…",
+                      "indices": [ - 
+                        111,
+                        134
+                      ],
+                      "url": "https://t.co/Uw9mt7svXV",
+                      "expanded_url": "https://www.facebook.com/1455919884704693/posts/2248503768779630/"
+                    }
+                  ],
+                  "user_mentions": [ - 
+                    { - 
+                      "screen_name": "ZujeyLuna10",
+                      "indices": [ - 
+                        30,
+                        42
+                      ],
+                      "id_str": "86933249",
+                      "name": "Zujey Luna",
+                      "id": 86933249
+                    }
+                  ]
+                },
+                "display_text_range": [ - 
+                  0,
+                  170
+                ],
+                "full_text": "#NuestroDurango | Esta semana @ZujeyLuna10 presenta la historia de la plazuela de Zambrano.\n\n¿Sabes cuál es?\n\nhttps://t.co/Uw9mt7svXV\n\n#Durango #Noticias #TiempoYEspacio https://t.co/ZxFKSGo7g2",
+                "extended_entities": { - 
+                  "media": [ - 
+                    { - 
+                      "indices": [ - 
+                        171,
+                        194
+                      ],
+                      "display_url": "pic.twitter.com/ZxFKSGo7g2",
+                      "expanded_url": "https://twitter.com/canal10durango/status/1226562476159971328/photo/1",
+                      "media_url_https": "https://pbs.twimg.com/media/EQWgEW8XkAIOJKR.jpg",
+                      "type": "photo",
+                      "media_url": "http://pbs.twimg.com/media/EQWgEW8XkAIOJKR.jpg",
+                      "url": "https://t.co/ZxFKSGo7g2",
+                      "id_str": "1226562470267031554",
+                      "sizes": { - 
+                        "large": { - 
+                          "resize": "fit",
+                          "w": 1024,
+                          "h": 542
+                        },
+                        "small": { - 
+                          "resize": "fit",
+                          "w": 680,
+                          "h": 360
+                        },
+                        "medium": { - 
+                          "resize": "fit",
+                          "w": 1024,
+                          "h": 542
+                        },
+                        "thumb": { - 
+                          "resize": "crop",
+                          "w": 150,
+                          "h": 150
+                        }
+                      },
+                      "id": 1226562470267031600
+                    }
+                  ]
+                }
+              },
+              "reply_count": 1,
+              "user": { - 
+                "follow_request_sent": null,
+                "verified": false,
+                "protected": false,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "translator_type": "none",
+                "created_at": "Mon Aug 29 21:10:49 +0000 2011",
+                "id_str": "364486703",
+                "favourites_count": 941,
+                "is_translator": false,
+                "id": 364486703,
+                "statuses_count": 10070,
+                "profile_background_color": "9AE4E8",
+                "profile_background_tile": false,
+                "profile_link_color": "1B95E0",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1125835239773708289/mPJlBpfK_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/364486703/1578286803",
+                "default_profile": false,
+                "following": null,
+                "screen_name": "canal10durango",
+                "profile_use_background_image": true,
+                "geo_enabled": false,
+                "url": "http://www.canal10.com.mx",
+                "description": "TV DIEZ DURANGO S.A. DE C.V. Empresa familiar, con altos estándares de calidad, comprometida con la población Duranguense.",
+                "profile_sidebar_border_color": "BDDCAD",
+                "profile_sidebar_fill_color": "DDFFCC",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1125835239773708289/mPJlBpfK_normal.png",
+                "followers_count": 33797,
+                "contributors_enabled": false,
+                "profile_text_color": "333333",
+                "notifications": null,
+                "lang": null,
+                "listed_count": 146,
+                "friends_count": 1915,
+                "utc_offset": null,
+                "name": "Canal10durango",
+                "time_zone": null,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "location": "Durango, Dgo. México",
+                "default_profile_image": false
+              },
+              "is_quote_status": false,
+              "in_reply_to_status_id": null,
+              "in_reply_to_user_id": null,
+              "filter_level": "low",
+              "in_reply_to_screen_name": null,
+              "geo": null,
+              "retweet_count": 2
+            },
+            "coordinates": null,
+            "timestamp_ms": "1581278842272",
+            "favorite_count": 0,
+            "entities": { - 
+              "symbols": [ - 
+
+              ],
+              "hashtags": [ - 
+                { - 
+                  "indices": [ - 
+                    20,
+                    35
+                  ],
+                  "text": "NuestroDurango"
+                }
+              ],
+              "urls": [ - 
+
+              ],
+              "user_mentions": [ - 
+                { - 
+                  "screen_name": "canal10durango",
+                  "indices": [ - 
+                    3,
+                    18
+                  ],
+                  "id_str": "364486703",
+                  "name": "Canal10durango",
+                  "id": 364486703
+                },
+                { - 
+                  "screen_name": "ZujeyLuna10",
+                  "indices": [ - 
+                    50,
+                    62
+                  ],
+                  "id_str": "86933249",
+                  "name": "Zujey Luna",
+                  "id": 86933249
+                }
+              ]
+            },
+            "created_at": "Sun Feb 09 20:07:22 +0000 2020",
+            "id_str": "1226598483714428928",
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "id": 1226598483714429000,
+            "in_reply_to_status_id_str": null,
+            "favorited": false,
+            "contributors": null,
+            "text": "RT @canal10durango: #NuestroDurango | Esta semana @ZujeyLuna10 presenta la historia de la plazuela de Zambrano.\n\n¿Sabes cuál es?\n\nhttps://…",
+            "quote_count": 0,
+            "lang": "es",
+            "truncated": false,
+            "retweeted": false,
+            "place": null,
+            "in_reply_to_user_id_str": null,
+            "reply_count": 0,
+            "user": { - 
+              "follow_request_sent": null,
+              "verified": false,
+              "protected": false,
+              "profile_background_image_url": "",
+              "translator_type": "none",
+              "created_at": "Tue Jul 05 02:34:13 +0000 2016",
+              "id_str": "750155796206329856",
+              "favourites_count": 11207,
+              "is_translator": false,
+              "id": 750155796206329900,
+              "statuses_count": 4063,
+              "profile_background_color": "F5F8FA",
+              "profile_background_tile": false,
+              "profile_link_color": "1DA1F2",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067908526356328448/VVw3TTPZ_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/750155796206329856/1543934292",
+              "default_profile": true,
+              "following": null,
+              "screen_name": "alf_avila36",
+              "profile_use_background_image": true,
+              "geo_enabled": false,
+              "url": null,
+              "description": "México. Libre pensador. ♈ Rockero. Felízmente casado. Renegado de la injusticia y... ya me voy",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1067908526356328448/VVw3TTPZ_normal.jpg",
+              "followers_count": 245,
+              "contributors_enabled": false,
+              "profile_text_color": "333333",
+              "notifications": null,
+              "lang": null,
+              "listed_count": 1,
+              "friends_count": 373,
+              "utc_offset": null,
+              "name": "🅰lfredo 🅰vila",
+              "time_zone": null,
+              "profile_background_image_url_https": "",
+              "location": null,
+              "default_profile_image": false
+            },
+            "is_quote_status": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_user_id": null,
+            "filter_level": "low",
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "retweet_count": 0
+          }
+        }
+      },
+      { - 
+        "_index": "noticias_mundiales",
+        "_type": "_doc",
+        "_id": "cHZdOXABny8mSGyfFQo-",
+        "_score": 1,
+        "_source": { - 
+          "@timestamp": "2020-02-12T12:17:34.990Z",
+          "@version": "1",
+          "doc_as_upsert": true,
+          "doc": { - 
+            "retweeted_status": { - 
+              "coordinates": null,
+              "favorite_count": 1,
+              "entities": { - 
+                "symbols": [ - 
+
+                ],
+                "hashtags": [ - 
+
+                ],
+                "urls": [ - 
+                  { - 
+                    "display_url": "infolibre.es/noticias/lo_me…",
+                    "indices": [ - 
+                      59,
+                      82
+                    ],
+                    "url": "https://t.co/7iaIA3aXIg",
+                    "expanded_url": "https://www.infolibre.es/noticias/lo_mejor_mediapart/2020/02/09/los_militares_contra_anexion_cisjordania_103658_1044.html"
+                  }
+                ],
+                "user_mentions": [ - 
+
+                ]
+              },
+              "created_at": "Sun Feb 09 20:07:03 +0000 2020",
+              "id_str": "1226598403402059777",
+              "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+              "id": 1226598403402059800,
+              "in_reply_to_status_id_str": null,
+              "possibly_sensitive": false,
+              "favorited": false,
+              "contributors": null,
+              "text": "Los militares de Israel rechazan la anexión de Cisjordania\nhttps://t.co/7iaIA3aXIg",
+              "quote_count": 0,
+              "lang": "es",
+              "truncated": false,
+              "retweeted": false,
+              "place": null,
+              "in_reply_to_user_id_str": null,
+              "reply_count": 0,
+              "user": { - 
+                "follow_request_sent": null,
+                "verified": false,
+                "protected": false,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "translator_type": "none",
+                "created_at": "Thu Dec 07 16:20:41 +0000 2017",
+                "id_str": "938805471347204103",
+                "favourites_count": 15798,
+                "is_translator": false,
+                "id": 938805471347204100,
+                "statuses_count": 16361,
+                "profile_background_color": "000000",
+                "profile_background_tile": false,
+                "profile_link_color": "C90425",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/938810184406786048/wY7IxyxY_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/938805471347204103/1512723213",
+                "default_profile": false,
+                "following": null,
+                "screen_name": "smolny7",
+                "profile_use_background_image": false,
+                "geo_enabled": false,
+                "url": "https://movimientopoliticoderesistencia.blogspot.com.es/",
+                "description": null,
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/938810184406786048/wY7IxyxY_normal.jpg",
+                "followers_count": 3371,
+                "contributors_enabled": false,
+                "profile_text_color": "000000",
+                "notifications": null,
+                "lang": null,
+                "listed_count": 21,
+                "friends_count": 5,
+                "utc_offset": null,
+                "name": "Movimiento Politico de Resistencia",
+                "time_zone": null,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "location": null,
+                "default_profile_image": false
+              },
+              "is_quote_status": false,
+              "in_reply_to_status_id": null,
+              "in_reply_to_user_id": null,
+              "filter_level": "low",
+              "in_reply_to_screen_name": null,
+              "geo": null,
+              "retweet_count": 2
+            },
+            "coordinates": null,
+            "timestamp_ms": "1581278915874",
+            "favorite_count": 0,
+            "entities": { - 
+              "symbols": [ - 
+
+              ],
+              "hashtags": [ - 
+
+              ],
+              "urls": [ - 
+                { - 
+                  "display_url": "infolibre.es/noticias/lo_me…",
+                  "indices": [ - 
+                    72,
+                    95
+                  ],
+                  "url": "https://t.co/7iaIA3aXIg",
+                  "expanded_url": "https://www.infolibre.es/noticias/lo_mejor_mediapart/2020/02/09/los_militares_contra_anexion_cisjordania_103658_1044.html"
+                }
+              ],
+              "user_mentions": [ - 
+                { - 
+                  "screen_name": "smolny7",
+                  "indices": [ - 
+                    3,
+                    11
+                  ],
+                  "id_str": "938805471347204103",
+                  "name": "Movimiento Politico de Resistencia",
+                  "id": 938805471347204100
+                }
+              ]
+            },
+            "created_at": "Sun Feb 09 20:08:35 +0000 2020",
+            "id_str": "1226598792423727104",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "id": 1226598792423727000,
+            "in_reply_to_status_id_str": null,
+            "possibly_sensitive": false,
+            "favorited": false,
+            "contributors": null,
+            "text": "RT @smolny7: Los militares de Israel rechazan la anexión de Cisjordania\nhttps://t.co/7iaIA3aXIg",
+            "quote_count": 0,
+            "lang": "es",
+            "truncated": false,
+            "retweeted": false,
+            "place": null,
+            "in_reply_to_user_id_str": null,
+            "reply_count": 0,
+            "user": { - 
+              "follow_request_sent": null,
+              "verified": false,
+              "protected": false,
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "translator_type": "none",
+              "created_at": "Tue Feb 03 20:58:17 +0000 2015",
+              "id_str": "3015364990",
+              "favourites_count": 14408,
+              "is_translator": false,
+              "id": 3015364990,
+              "statuses_count": 122935,
+              "profile_background_color": "C0DEED",
+              "profile_background_tile": false,
+              "profile_link_color": "1DA1F2",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/914556233494953984/C8kqWAjs_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/3015364990/1523809227",
+              "default_profile": true,
+              "following": null,
+              "screen_name": "david16111980",
+              "profile_use_background_image": true,
+              "geo_enabled": true,
+              "url": null,
+              "description": null,
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/914556233494953984/C8kqWAjs_normal.jpg",
+              "followers_count": 215,
+              "contributors_enabled": false,
+              "profile_text_color": "333333",
+              "notifications": null,
+              "lang": null,
+              "listed_count": 31,
+              "friends_count": 155,
+              "utc_offset": null,
+              "name": "David16111980",
+              "time_zone": null,
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "location": null,
+              "default_profile_image": false
+            },
+            "is_quote_status": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_user_id": null,
+            "filter_level": "low",
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "retweet_count": 0
+          }
+        }
+      }
+    ]
+  }
+}
