@@ -81,7 +81,6 @@ durante el desarrollo del proyecto,
 5.- Video explicativo del proceso completo subido a Youtube [Video](https://www.youtube.com/playlist?list=PL0UqIFf7qfAZx9UhZOhJhy0zEDSUAros6)
 ##
 ## Guia del proyecto
-##
 Para este proyecto es necesario tener instalado:
 * [Cerebro](https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781786465580/12/ch12lvl1sec144/installing-and-using-cerebro)
 * [Elasticsearch](https://www.elastic.co/es/downloads/elasticsearch)
@@ -96,11 +95,11 @@ cd "Ruta del archivo donde se descomprimieron lo archivos"
 cd "Nombre de la carpeta"/bin         //Ejecutar el comando correspondiente (elasticsearch, cerebro, kibana)
 elasticsearch         //clic enter
 ```
-* Ingresar en el siguiente rden para usar los archivos
-** Elasticsearch: http://localhost:9200
+### Ingresar en el siguiente rden para usar los archivos
+* Elasticsearch: `http://localhost:9200`
 Copiar el enlace de elasticsearch en cerebro.
-** Cerebro: http://localhost:9000
-** Kibana: http://localhost:5601
+* Cerebro: `http://localhost:9000`
+* Kibana: `http://localhost:5601`
 ## Uso de la carpeta conf
 Para usar el archivo conf de aqui primero descargar [Logstash](https://www.elastic.co/es/downloads/logstash) para esto se recomienda una vez descargado, descomprimir el archivo en una ruta donde las carpetas anteriores no tengan espacios o signos especiales en el nombre de sus carpetas.
 
