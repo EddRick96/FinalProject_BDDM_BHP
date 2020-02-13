@@ -1,7 +1,7 @@
 ﻿Copiar y pegar en el archivo de logstash en la carpeta bin creando un archivo .conf
 
 Parte 1
-//
+## 
 input {
   couchdb_changes {
     username => "Erick"
@@ -25,10 +25,10 @@ output {
       }
    
 }
-//
+##
 Parte 2
 Descomentar (quitar #) según correspondo para mandar las bases de datos de couchDB a elasticsearch
-//
+##
 input {
   couchdb_changes {
     username => "Erick"
@@ -50,4 +50,4 @@ output {
       }
    
 }
-//
+##
