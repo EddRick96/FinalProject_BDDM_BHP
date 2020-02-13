@@ -78,5 +78,44 @@ durante el desarrollo del proyecto,
 - Logstash, etc
 
 
-5.- Video explicativo del proceso completo subido a Youtube 
+5.- Video explicativo del proceso completo subido a Youtube [Video](https://www.youtube.com/playlist?list=PL0UqIFf7qfAZx9UhZOhJhy0zEDSUAros6)
+##
+## Guia del proyecto
+##
+Para este proyecto es necesario tener instalado:
+* [Cerebro](https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781786465580/12/ch12lvl1sec144/installing-and-using-cerebro)
+* [Elasticsearch](https://www.elastic.co/es/downloads/elasticsearch)
+* [Logstash](https://www.elastic.co/es/downloads/logstash)
+* [Kibana](https://www.elastic.co/es/downloads/kibana)
+## Uso de Cerebro, Elasticsearch,  Kibana
+Una vez descargado los archivos: 
+* Descomprimir (Se recomienda crear una carpteta para descomprimir todos los archivos)
+* Ir a través de la línea de comandos (Teclas Windows + R => escribir cmd clic enter.)  
+```shell
+cd "Ruta del archivo donde se descomprimieron lo archivos"
+cd "Nombre de la carpeta"/bin         //Ejecutar el comando correspondiente (elasticsearch, cerebro, kibana)
+elasticsearch         //clic enter
+```
+* Ingresar en el siguiente rden para usar los archivos
+** Elasticsearch: http://localhost:9200
+Copiar el enlace de elasticsearch en cerebro.
+** Cerebro: http://localhost:9000
+** Kibana: http://localhost:5601
+## Uso de la carpeta conf
+Para usar el archivo conf de aqui primero descargar [Logstash](https://www.elastic.co/es/downloads/logstash) para esto se recomienda una vez descargado, descomprimir el archivo en una ruta donde las carpetas anteriores no tengan espacios o signos especiales en el nombre de sus carpetas.
+
+
+Nota: logstash no cuenta con un archivo .conf en su carpeta bin para lo cual debe: 
+* Crear un archivo .txt.
+* Seleccionar en guardar como...
+* ubicar en nombre del archivo (nombre).conf 
+* Cambiar de tipo de archivo .txt a todos los archivos
+* Guardar en la carpeta bin de logstash.
+*Seguir la guia que esta dentro de la carpeta conf.*
+Luego:
+```shell
+cd "Ruta del archivo donde se descomprimieron lo archivos"
+cd "Nombre de la carpeta"/bin         //Ejecutar el comando correspondiente (elasticsearch, cerebro, kibana)
+logstash -f (nombredel archivo .conf).conf         //clic enter
+```
 
