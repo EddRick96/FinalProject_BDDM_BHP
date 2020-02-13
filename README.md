@@ -100,6 +100,7 @@ elasticsearch         //clic enter
 Copiar el enlace de elasticsearch en cerebro.
 * Cerebro: `http://localhost:9000`
 * Kibana: `http://localhost:5601`
+*Para esto debera ya tener uso de las diferentes bases de datos sean relacionales o no*
 ## Uso de la carpeta conf
 Para usar el archivo conf de aqui primero descargar [Logstash](https://www.elastic.co/es/downloads/logstash) para esto se recomienda una vez descargado, descomprimir el archivo en una ruta donde las carpetas anteriores no tengan espacios o signos especiales en el nombre de sus carpetas.
 
@@ -107,14 +108,16 @@ Para usar el archivo conf de aqui primero descargar [Logstash](https://www.elast
 Nota: logstash no cuenta con un archivo .conf en su carpeta bin para lo cual debe: 
 * Crear un archivo .txt.
 * Seleccionar en guardar como...
-* ubicar en nombre del archivo (nombre).conf 
+* Poner en nombre del archivo (nombre).conf 
 * Cambiar de tipo de archivo .txt a todos los archivos
 * Guardar en la carpeta bin de logstash.
 *Seguir la guia que esta dentro de la carpeta conf.*
+Lista de plugins tanto de [input](https://www.elastic.co/guide/en/logstash/current/input-plugins.html) como de [output](https://www.elastic.co/guide/en/logstash/current/output-plugins.html) que posee logstash.
 Luego:
 ```shell
 cd "Ruta del archivo donde se descomprimieron lo archivos"
 cd "Nombre de la carpeta"/bin         //Ejecutar el comando correspondiente (elasticsearch, cerebro, kibana)
+logstash-plugin list        //comando para comprobar los plugin instalados
 logstash -f (nombredel archivo .conf).conf         //clic enter
 ```
 
