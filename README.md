@@ -80,7 +80,7 @@ durante el desarrollo del proyecto,
 
 ### 5.- Video explicativo del proceso completo subido a Youtube  [Parte 1](https://www.youtube.com/playlist?list=PL0UqIFf7qfAZx9UhZOhJhy0zEDSUAros6), [Parte 2](https://youtu.be/JQTJev806mY) 
 ##
-## Guia del proyecto
+# Guia del proyecto
 Para este proyecto es necesario tener instalado:
 * [Cerebro](https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781786465580/12/ch12lvl1sec144/installing-and-using-cerebro)
 * [Elasticsearch](https://www.elastic.co/es/downloads/elasticsearch)
