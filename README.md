@@ -89,9 +89,9 @@ Para este proyecto es necesario tener instalado:
 ## Uso de Cerebro, Elasticsearch,  Kibana
 Una vez descargado los archivos: 
 * Descomprimir (Se recomienda crear una carpteta para descomprimir todos los archivos)
-* Ir a través de la línea de comandos (Teclas Windows + R => escribir cmd clic enter.)  
+* Ir a través de la línea de comandos (Teclas: Windows + R => escribir cmd => clic enter.)  
 ```shell
-cd "Ruta del archivo donde se descomprimieron lo archivos"
+cd "Ruta donde se descomprimieron los archivos"
 cd "Nombre de la carpeta"/bin         //Ejecutar el comando correspondiente (elasticsearch, cerebro, kibana)
 elasticsearch         //clic enter
 ```
@@ -115,9 +115,9 @@ Nota: logstash no cuenta con un archivo .conf en su carpeta bin para lo cual deb
 Lista de plugins tanto de [input](https://www.elastic.co/guide/en/logstash/current/input-plugins.html) como de [output](https://www.elastic.co/guide/en/logstash/current/output-plugins.html) que posee logstash.
 Luego:
 ```shell
-cd "Ruta del archivo donde se descomprimieron lo archivos"
+cd "Ruta donde se descomprimieron los archivos"
 cd "Nombre de la carpeta"/bin         //Ejecutar el comando correspondiente (elasticsearch, cerebro, kibana)
 logstash-plugin list        //comando para comprobar los plugin instalados
-logstash -f (nombredel archivo .conf).conf         //clic enter
+logstash -f (nombre del archivo .conf).conf         //clic enter
 ```
 
