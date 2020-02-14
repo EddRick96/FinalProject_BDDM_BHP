@@ -2,15 +2,15 @@
   Proyecto Final de BDD Multidimensional
   
   Facultad:  ESFOT
+  Carrera: Tecnología en Análisis de Sistemas Informáticos
 
-
-Integrantes:
+## Integrantes:
 
   - Bolaños Erick
   - Heredia Alfonso
   - Pizarra Jhonathan
 
-Descripción:
+## Descripción:
 El presente proyecto abarca todo lo aprendido durante el semestre 2019B de la materia Base de datos Multidimensaional, se tiene por objetivos:
 1) Diseñar una arquitectura de Data Lake en la cual tenga el insumo de datos de al menos las siguientes fuentes:
 
@@ -38,9 +38,9 @@ El presente proyecto abarca todo lo aprendido durante el semestre 2019B de la ma
  4) Visualización: Se creará una página web en la cual se insertará un dashboard (puede ser de kibana o google charts)
 Cada caso de estudio debe tener su propio dashboard y de todo el proyecto al menos una visualización debe tener geolocalización.
 
-Entregables:
+## Entregables:
 
-  1.- Informe (pdf, IEEE doble columna)
+### 1.- Informe (pdf, IEEE doble columna)
 El informe ha de contener:
   - Definición del caso de estudio.
   - Objetivos Generales y específicos.  
@@ -58,17 +58,17 @@ El informe ha de contener:
 - Link de github del proyecto.
 
 
-2.- Presentación del proyecto (ppt, pdf o prezi)
+### 2.- Presentación del proyecto (ppt, pdf o prezi)
   
   - La presentación se realizará por cada miembro del equipo. Su duración será de 30 minutos y ha de contener los elementos mencionados en el informe.
 
 
-3.- Bases de datos unificadas
+### 3.- Bases de datos unificadas
   - Se debe crear un archivo unificado (“nombredelproyecto.couch”, “carpeta_indices_de_es.ziip”, etc) de la base de datos recopilada 
 durante el desarrollo del proyecto, 
   - Este archivo se lo debe entregar en uno o varios dvd´s.
 
-4.- Scripts: Se proporcionará los links de github donde se encuentran los scripts de
+### 4.- Scripts: Se proporcionará los links de github donde se encuentran los scripts de
 
 - Cosecha
 - Transformación de datos
@@ -78,7 +78,7 @@ durante el desarrollo del proyecto,
 - Logstash, etc
 
 
-5.- Video explicativo del proceso completo subido a Youtube [Video](https://www.youtube.com/playlist?list=PL0UqIFf7qfAZx9UhZOhJhy0zEDSUAros6)
+### 5.- Video explicativo del proceso completo subido a Youtube [Video](https://www.youtube.com/playlist?list=PL0UqIFf7qfAZx9UhZOhJhy0zEDSUAros6)
 ##
 ## Guia del proyecto
 Para este proyecto es necesario tener instalado:
@@ -104,7 +104,7 @@ Copiar el enlace de elasticsearch en cerebro.
 ## Uso de la carpeta conf
 Para usar el archivo conf de aqui primero descargar [Logstash](https://www.elastic.co/es/downloads/logstash) para esto se recomienda una vez descargado, descomprimir el archivo en una ruta donde las carpetas anteriores no tengan espacios o signos especiales en el nombre de sus carpetas.
 
-
+======================================================================================
 Nota: logstash no cuenta con un archivo .conf en su carpeta bin para lo cual debe: 
 * Crear un archivo .txt.
 * Seleccionar en guardar como...
@@ -120,4 +120,4 @@ cd "Nombre de la carpeta"/bin         //Ejecutar el comando correspondiente (ela
 logstash-plugin list        //comando para comprobar los plugin instalados
 logstash -f (nombre del archivo .conf).conf         //clic enter
 ```
-
+============================================================================================
