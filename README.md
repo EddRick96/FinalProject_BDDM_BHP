@@ -2,6 +2,7 @@
   Proyecto Final de BDD Multidimensional
   
   Facultad:  ESFOT
+  
   Carrera: Tecnología en Análisis de Sistemas Informáticos
 
 ## Integrantes:
