@@ -104,7 +104,7 @@ Copiar el enlace de elasticsearch en cerebro.
 ## Uso de la carpeta conf
 Para usar el archivo conf de aqui primero descargar [Logstash](https://www.elastic.co/es/downloads/logstash) para esto se recomienda una vez descargado, descomprimir el archivo en una ruta donde las carpetas anteriores no tengan espacios o signos especiales en el nombre de sus carpetas.
 
-======================================================================================
+------------------------------------------------------------------------------------
 Nota: logstash no cuenta con un archivo .conf en su carpeta bin para lo cual debe: 
 * Crear un archivo .txt.
 * Seleccionar en guardar como...
@@ -120,4 +120,4 @@ cd "Nombre de la carpeta"/bin         //Ejecutar el comando correspondiente (ela
 logstash-plugin list        //comando para comprobar los plugin instalados
 logstash -f (nombre del archivo .conf).conf         //clic enter
 ```
-============================================================================================
+------------------------------------------------------------------------------------------
